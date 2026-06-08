@@ -42,11 +42,11 @@ I choose this domain because it's something that's useful to myself and othhers 
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size: 500**
 
-**Overlap:**
+**Overlap: 100**
 
-**Reasoning:**
+**Reasoning: Since most of the documents will be about reviews, I feel like 500 character chunk is enough to get the whole context of the review. The 100 chunnks overlap is to make sure details that appear at the boundary of the chunks would not be lost. **
 
 ---
 
@@ -58,11 +58,11 @@ I choose this domain because it's something that's useful to myself and othhers 
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model:sentence-transformers/all-MiniLM-L6-v2**
 
-**Top-k:**
+**Top-k:5**
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection: If this were being deployed for real users and cost wasn't an issue, I would pick a higher performance embedding model such as BAAI/bge-large-en-v1.5 or OpenAI’s text-embedding-3-large since they have a better understanding of semantic. This would really show a difference in a guide like this where sentiment and conntext matters since we're dealing wwith courses and professors. The tradeoff compared to these models is that those stronger models would be more accurate, and be able to understand context better compared to the one I plan to use but they also do come with higher cost, increased latenncy and external API dependecny.**
 
 ---
 
@@ -75,11 +75,11 @@ I choose this domain because it's something that's useful to myself and othhers 
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What do students feel about CS 288's workload?| CS288 is described as a difficult, time-intensive course with heavy programming assignments and fast-paced lectures.|
+| 2 | Which professor is prefferd by most students for CS288?| Many students prefer Professor Dale due to clearer explanations, structured lectures, and more manageable pacing compared to other instructors.|
+| 3 |What factors make NJIT CS professors receive high ratings | Some factors that make them recieve high ratings are having clear explanations, fair grading, balanced workload, and good pacing.|
+| 4 |Which NJIT CS courses are repeatedly described as most difficult and why? | CS288 and CS350 are described as some of the most diffuclt course. This is due to many reasons such as a lot of topics in a short amount of time, hard exams etc. |
+| 5 | How do students generally describe CS280 compared to later CS courses?| CS280 is often described as a foundational but challenging course with a heavy programming workload that prepares students for more advanced CS classes.|
 
 ---
 
@@ -89,9 +89,9 @@ I choose this domain because it's something that's useful to myself and othhers 
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Student reviews are always inconsistent and subjective. Each student has their own experince with the course and professor which might lead to conflicting information. 
 
-2.
+2. Important details such as difficulty of the course may be spread throughout the chunks and nnot all be in one chunk which could lead to an incomplete evaluation. 
 
 ---
 
@@ -102,6 +102,20 @@ I choose this domain because it's something that's useful to myself and othhers 
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+[ Documents ]
+     ↓
+[ Ingestion - Python ]
+     ↓
+[ Chunking - 500 char + overlap ]
+     ↓
+[ Embeddings - MiniLM ]
+     ↓
+[ Vector DB - ChromaDB ]
+     ↓
+[ Retrieval - Top-k=5 ]
+     ↓
+[ LLM Generation - Groq ]
+
 
 ---
 
@@ -117,8 +131,20 @@ I choose this domain because it's something that's useful to myself and othhers 
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
-**Milestone 3 — Ingestion and chunking:**
+**Milestone 3 — Ingestion and chunking:
+Tool :Claude
+Input: The Documents table and Chunking Strategy section from this planning doc. Prompt: "Given these sources and a chunk size of 500 characters with 100-character overlap, implement an ingest_and_chunk() function in Python that fetches or reads each document, cleans the text, and splits it into chunks with metadata (source URL, chunk index)."
+Expected output: A Python script with ingest_and_chunk() that returns a list of dicts like {"text": ..., "source": ..., "chunk_id": ...}
+Verification: Run the script and confirm each source produces multiple non-empty chunks; manually inspect 2–3 chunks per source to confirm overlap is working and chunk length is near 500 characters.**
 
-**Milestone 4 — Embedding and retrieval:**
+**Milestone 4 — Embedding and retrieval:
+Tool : Claude
+Input: The Retrieval Approach section and the chunk schema output from Milestone 3. Prompt: "Using sentence-transformers/all-MiniLM-L6-v2 and ChromaDB, implement embed_and_store(chunks) to embed each chunk and store it with metadata, and retrieve(query, k=5) to return the top-5 most relevant chunks for a given query string."
+Expected output: Two functions — one that populates a ChromaDB collection, and one that returns top-k chunks with their source metadata.
+Verification: Run each of your 5 evaluation questions through retrieve() and check that the returned chunks are actually about the right professor/course and not off-topic results.**
 
-**Milestone 5 — Generation and interface:**
+**Milestone 5 — Generation and interface:
+Tool: Claude
+Input: The full Architecture diagram, the Evaluation Plan questions, and the output schema from Milestone 4. Prompt: "Using Groq's LLM API and the retrieved chunks as context, implement a generate_answer(query, chunks) function that formats a prompt with the retrieved context and returns a grounded answer. Then build a simple CLI or Gradio interface that takes a user question, calls retrieve(), passes results to generate_answer(), and prints the response with source citations."
+Expected output: A generate_answer() function and a working interface (CLI loop or Gradio app) that ties the full pipeline together end to end.
+Verification: Run all 5 evaluation questions from your Evaluation Plan through the full pipeline and compare answers against your expected answers. Check that responses cite specific professors or course names rather than giving generic answers.**
