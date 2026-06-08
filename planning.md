@@ -10,6 +10,8 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+Domain : NJIT Computer Science Professors Guide
+I choose this domain because it's something that's useful to myself and othhers at my college. This knowledge is hard and valuable to find becasue professors are always changing, or teaching new courses. By gathering scattered information from multiple sources, here it's easier to decide on which CS professor to take. 
 
 ---
 
@@ -20,16 +22,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | NJIT CS Curriculum|Classes a student needs to take to graduate as a CS major |https://catalog.njit.edu/undergraduate/computing-sciences/computer-science/bs/|
+| 2 | NJIT Course Catalog| List of NJIT courses |https://catalog.njit.edu |
+| 3 | Rate My Professors - CS280 Professor| Review link for a CS 280 Professor |https://www.ratemyprofessors.com/professor/2626129 |
+| 4 | Rate My Professors - CS288 Professor| Link for 288 Prof| https://www.ratemyprofessors.com/professor/2946192|
+| 5 | Rate My Professors - CS332 Professor |CS 332 RMP | https://www.ratemyprofessors.com/professor/2755801|
+| 6 |Rate My Professors - CS350 Professor | Reviews for a CS350 Professor|https://www.ratemyprofessors.com/professor/2322213 |
+| 7 | Reddit|Discussion about which professor to take for cs288 |https://www.reddit.com/r/NJTech/comments/qtkuhj/itani_or_ding_for_cs288/ |
+| 8 | Rate my course|Ratings of NJIT CS courses |https://www.ratemycourses.io/njit/department/cs |
+| 9 | NJIT CS Graduate Catalog| Advanced CS courses + faculty + research areas| https://catalog.njit.edu/graduate/computing-sciences/computer-science/|
+| 10 | Reddit|Thread about good CS teachers at NJIT |https://www.reddit.com/r/NJTech/comments/ivuujj/any_good_cs_teachers_at_njit/|
 
 ---
 
