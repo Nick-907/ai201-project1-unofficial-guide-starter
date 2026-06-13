@@ -1,0 +1,1395 @@
+[
+  {
+    "text": "DESCRIPTION: Official descriptions for all undergraduate CS courses at NJIT (2025-2026), including prerequisites, credits, and course content. Focuses on courses relevant to the CS B.S. degree.\n\nNJIT DEPARTMENT OF COMPUTER SCIENCE - UNDERGRADUATE COURSE CATALOG (2025-2026)\n\nDepartment Chair: Vincent Oria\nAssociate Chair: Xiaoning Ding\n\nINTRODUCTORY COURSES:\n\nCS 100. Roadmap to Computing. 3 credits.\nAn introduction to programming and problem solving skills using Python or other very high level la",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_0",
+    "char_start": 0,
+    "char_end": 500
+  },
+  {
+    "text": ".\nAn introduction to programming and problem solving skills using Python or other very high level language. Topics include basic strategies for problem solving, constructs that control the flow of execution of a program and the use of high level data types such as lists, strings and dictionaries in problem representation. The course also presents an overview of selected topics in computing, such as networking and databases.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_1",
+    "char_start": 400,
+    "char_end": 829
+  },
+  {
+    "text": "s networking and databases.\n\nCS 113. Introduction to Computer Science I. 3 credits.\nPrerequisites: CS 100 or CS 103 with grade C or better. Intensive introduction to computer science. Problem solving decomposition. Writing, debugging, and analyzing computer programs. Introduction to arrays and lists. Iteration and recursion. The Java language is introduced and used to highlight these concepts.\n\nCS 114. Introduction to Computer Science II. 3 credits.\nPrerequisite: CS 113 with grade C or better.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_2",
+    "char_start": 800,
+    "char_end": 1299
+  },
+  {
+    "text": "114. Introduction to Computer Science II. 3 credits.\nPrerequisite: CS 113 with grade C or better. A study of advanced programming topics with logical structures of data, their physical representation, and the design of computer algorithms operating on the structures. Course covers program specifications, correctness and efficiency, data abstraction, and algorithm analysis.\n\nCORE REQUIRED CS COURSES:\n\nCS 241. Foundations of Computer Science I.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_3",
+    "char_start": 1200,
+    "char_end": 1648
+  },
+  {
+    "text": "ES:\n\nCS 241. Foundations of Computer Science I. 3 credits.\nPrerequisites: CS 114 and MATH 112 with grade C or better. An introduction to the foundations of computer science with emphasis on the development of techniques for the design and proof of correctness of algorithms and the analysis of their computational complexity. Reasoning techniques based on propositional and predicate logic and relational calculus operations with applications to databases will also be introduced.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_4",
+    "char_start": 1600,
+    "char_end": 2081
+  },
+  {
+    "text": "onal calculus operations with applications to databases will also be introduced. Topics include combinatorics of finite sets, functions and relations, and graph-theory definitions.\n\nCS 280. Programming Language Concepts. 3 credits.\nPrerequisites: CS 114 or CS 116 or IT 114 or equivalent with grade C or better. Conceptual study of programming language syntax, semantics and implementation. Course covers language definition structure, data types and structures, control structures and data flow, run",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_5",
+    "char_start": 2000,
+    "char_end": 2500
+  },
+  {
+    "text": "vers language definition structure, data types and structures, control structures and data flow, run-time consideration, and interpretative languages. This is NOT primarily a programming course — it focuses on the theory and concepts behind programming languages, though all assignments are programming-based.\n\nCS 288. Intensive Programming in Linux. 3 credits.\nPrerequisites: CS 100 and CS 280 with grade C or better. The course covers Linux programming with Apache Web and MySQL database using PHP/",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_6",
+    "char_start": 2400,
+    "char_end": 2900
+  },
+  {
+    "text": "grade C or better. The course covers Linux programming with Apache Web and MySQL database using PHP/Python and C as primary languages. It consists of four stages: basic tools such as Bash and C programming; searching trees and matrix computing; end-to-end applications such as one that constantly presents top 100 stocks; and extending the applications to run on multiple machines. The course provides students with hands-on experience for programming relatively large applications.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_7",
+    "char_start": 2800,
+    "char_end": 3283
+  },
+  {
+    "text": "s students with hands-on experience for programming relatively large applications. This is one of the most demanding required CS courses and is considered a weed-out course.\n\nCS 332. Principles of Operating Systems. 3 credits.\nPrerequisites: CS 114 or CS 116 or IT 114 or equivalent with grade C or better. Organization of operating systems covering structure, process management and scheduling; interaction of concurrent processes; interrupts; I/O, device handling; memory and virtual memory managem",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_8",
+    "char_start": 3200,
+    "char_end": 3700
+  },
+  {
+    "text": "raction of concurrent processes; interrupts; I/O, device handling; memory and virtual memory management and file management. Required course for all CS majors, taken in Third Year Semester 1.\n\nCS 341. Foundations of Computer Science II. 3 credits.\nPrerequisites: CS 241 or MATH 226 and CS 280 with grade C or better. Introduction to automata theory, computability theory, and complexity theory. Theoretical models such as finite-state machines, push-down stack machines, and Turing machines are devel",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_9",
+    "char_start": 3600,
+    "char_end": 4100
+  },
+  {
+    "text": "etical models such as finite-state machines, push-down stack machines, and Turing machines are developed and related to issues in programming language theory. Also covers undecidability and complexity classes P, NP, and NPC.\n\nCS 350. Intro to Computer Systems. 3 credits.\nPrerequisite: CS 280 with grade C or better. Students learn an in-depth understanding of computer internals from a programmer's perspective. Covers the design and construction of internal hardware to execute programmers' instruc",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_10",
+    "char_start": 4000,
+    "char_end": 4500
+  },
+  {
+    "text": "perspective. Covers the design and construction of internal hardware to execute programmers' instructions written in C. Topics include assignments, branches, arithmetic and logic operations, loops, functions, and recursions. Assembly language constructs are presented. Explores sequential x86-based machine, pipelined computers, cache memory, main memory, virtual memory and its translation of logical address to linear address and to physical address.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_11",
+    "char_start": 4400,
+    "char_end": 4853
+  },
+  {
+    "text": "l address to linear address and to physical address. One of the most technically challenging required courses for CS majors.\n\nCS 356. Introduction to Computer Networks. 3 credits.\nPrerequisite: CS 280 with grade C or better. Introduction to computer networks, with special focus on Internet architecture and protocols. Topics include layered-network architectures, addressing, naming, forwarding, routing, communication reliability, the client-server model, web and email protocols.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_12",
+    "char_start": 4800,
+    "char_end": 5283
+  },
+  {
+    "text": "ting, communication reliability, the client-server model, web and email protocols. Students also gain practical experience by programming reduced versions of real Internet protocols.\n\nCS 435. Advanced Data Structures and Algorithm Design. 3 credits, 4 contact hours.\nPrerequisites: CS 241 and CS 288 with grade C or better. Advanced topics in data structures and algorithms, involving sequences, sets, and graphs such as searching, sorting, order statistics, balanced search tree operations, hash tab",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_13",
+    "char_start": 5200,
+    "char_end": 5700
+  },
+  {
+    "text": ", and graphs such as searching, sorting, order statistics, balanced search tree operations, hash tables, graph traversals, graph connectivity and path problems. Algebraic and numeric algorithms. Performance measures, analysis techniques, and complexity of such algorithms.\n\nCS 490. Guided Design in Software Engineering. 3 credits.\nPrerequisites: CS 280 and CS 288 with grade C or better. Focuses on the methodology for developing software systems.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_14",
+    "char_start": 5600,
+    "char_end": 6049
+  },
+  {
+    "text": "the methodology for developing software systems. Methods and techniques for functional requirements analysis and specifications, design, coding, testing and proving, integration and maintenance are discussed.\n\nCS 491. Senior Project. 3 credits.\nPrerequisite: CS 490 with grade C or better. An opportunity for the student to integrate knowledge and skills gained in previous CS work into a team-based project. The project involves investigation of current literature as well as computer implementation",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_15",
+    "char_start": 6000,
+    "char_end": 6500
+  },
+  {
+    "text": "project. The project involves investigation of current literature as well as computer implementation of either a part of a large program or the whole of a small system.\n\nOTHER NOTABLE COURSES:\n\nCS 301. Introduction to Data Science. 3 credits.\nPrerequisites: CS 114 and MATH 333 or MATH 341 with grade C or better. Equips CS B.S. students with introductory principles and hands-on skills required to solve data science problems.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_16",
+    "char_start": 6400,
+    "char_end": 6828
+  },
+  {
+    "text": "olve data science problems. First part focuses on learning models, formalism, and algorithmic techniques popular in data science. Second part introduces data science tools (e.g., Excel, Python).\n\nCS 331. Database System Design & Management. 3 credits.\nPrerequisites: CS 114 or CS 116 or IT 114 or equivalent with grade C or better. Introduction to modern database systems covering database system architecture, data models, the Entity-Relationship model, the Relational model, Relational Algebra, SQL",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_17",
+    "char_start": 6800,
+    "char_end": 7300
+  },
+  {
+    "text": "hitecture, data models, the Entity-Relationship model, the Relational model, Relational Algebra, SQL, database design theory, database storage, and transaction processing.\n\nCS 333. Introduction to UNIX Operating Systems. 3 credits.\nPrerequisites: CS 332 or equivalent and knowledge of C language. Covers the UNIX system kernel including initialization, scheduling, context switching, process management, memory management, device management, and the file system.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_18",
+    "char_start": 7200,
+    "char_end": 7663
+  },
+  {
+    "text": "nt, memory management, device management, and the file system. Also includes the organization of shells, editors, utilities, and programming tools.\n\nCS 351. Introduction to Cybersecurity. 3 credits.\nPrerequisites: CS 241 and CS 356 with grade C or better. Broad overview of cybersecurity. Topics include basics of cryptography, access control, malware, software security, storage and file security, operating-system security, database security and secure communication protocols.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_19",
+    "char_start": 7600,
+    "char_end": 8081
+  },
+  {
+    "text": "perating-system security, database security and secure communication protocols.\n\nCS 370. Introduction to Artificial Intelligence. 3 credits.\nPrerequisites: CS 114, MATH 337, and CS 241 with grade C or better. Addresses theoretical foundation, methodologies, and applications of AI. Key topics include planning and problem-solving, knowledge representation, reasoning and learning paradigms, and AI's core mechanisms and applications.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_20",
+    "char_start": 8000,
+    "char_end": 8435
+  },
+  {
+    "text": "core mechanisms and applications.\n\nCS 375. Introduction to Machine Learning. 3 credits.\nPrerequisites: CS 100, CS 113 or CS 115, and MATH 333 or MATH 341 with grade C or better. Introductory course covering fundamental notions of ML, supervised, unsupervised, and reinforcement-based techniques, with applications on real datasets.\n\nCS 388. Android Application Development. 3 credits.\nPrerequisite: CS 288 with grade C or better. Introduces mobile application development for the Android platform.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_21",
+    "char_start": 8400,
+    "char_end": 8898
+  },
+  {
+    "text": "S 288 with grade C or better. Introduces mobile application development for the Android platform. Covers Android SDK, basic components and concepts, user interfaces, and SQLite database features.\n\nCS 433. Introduction to Linux Kernel Programming. 3 credits.\nPrerequisites: CS 288, CS 332, and CS 350. Introductory study of how the Linux operating system is built from scratch. Hands-on course covering booting, segmentation and paging, process management, handling exceptions and interrupts, creating",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_22",
+    "char_start": 8800,
+    "char_end": 9300
+  },
+  {
+    "text": "g booting, segmentation and paging, process management, handling exceptions and interrupts, creating system calls, creating file systems, networking with TCP/IP, device driver writing.\n\nCS 434. Advanced Database Systems. 3 credits.\nPrerequisite: CS 331 with grade C or better. Expands SQL knowledge and enhances database programming skills. Covers advanced data models and NoSQL DBMSs, object-oriented, document-based, tree-based and graph DBMSs, and Data Warehousing.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_23",
+    "char_start": 9200,
+    "char_end": 9670
+  },
+  {
+    "text": "d, document-based, tree-based and graph DBMSs, and Data Warehousing.\n\nCS 438. Interactive Computer Graphics. 3 credits.\nPrerequisites: CS 114 or CS 116 and MATH 337 with grade C or better. Introduces fundamental concepts of interactive graphics. Topics include data structures for representation of 2D and 3D objects and algorithms for definition, modification, and display of these objects.\n\nCS 444. Big Data Systems. 3 credits.\nPrerequisites: CS 288 and CS 301 or DS 340 with grade C or better.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_24",
+    "char_start": 9600,
+    "char_end": 10097
+  },
+  {
+    "text": "Big Data Systems. 3 credits.\nPrerequisites: CS 288 and CS 301 or DS 340 with grade C or better. Broad coverage of big data generation, transfer, storage, management, computing, and analytics. Focus on state-of-the-art technologies and tools such as Hadoop, HDFS, HBase, MapReduce/Spark.\n\nCS 474. Introduction to Generative AI. 3 credits.\nPrerequisites: CS 370 or CS 375 with grade C or better. Covers current topics and trends in generative AI including principles behind building and training gener",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_25",
+    "char_start": 10000,
+    "char_end": 10500
+  },
+  {
+    "text": "s current topics and trends in generative AI including principles behind building and training generative, language, and multimodal models.\n\nCS 482. Data Mining. 3 credits.\nPrerequisite: CS 301 or DS 340 with grade C or better. Covers concepts and principles of advanced data mining systems design; presents methods for association and dependency analysis, classification, prediction, and clustering analysis.\n\nPREREQUISITE CHAIN FOR KEY REQUIRED COURSES:",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_26",
+    "char_start": 10400,
+    "char_end": 10857
+  },
+  {
+    "text": "analysis.\n\nPREREQUISITE CHAIN FOR KEY REQUIRED COURSES:\n\nCS 288 requires: CS 100 + CS 280 (C or better)\nCS 280 requires: CS 114 (C or better)\nCS 114 requires: CS 113 (C or better)\nCS 113 requires: CS 100 (C or better)\n\nCS 350 requires: CS 280 (C or better)\nCS 332 requires: CS 114 (C or better)\nCS 341 requires: CS 241 + CS 280 (C or better)\nCS 435 requires: CS 241 + CS 288 (C or better)\nCS 433 requires: CS 288 + CS 332 + CS 350",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_27",
+    "char_start": 10800,
+    "char_end": 11232
+  },
+  {
+    "text": "ires: CS 288 + CS 332 + CS 350\n\nNOTE: A grade of C or better is required in all prerequisite courses. CS 280 is a prerequisite for CS 288, CS 341, CS 350, and CS 356 — it is a critical gateway course in the CS curriculum.",
+    "source": "njit_cs_course_catalog",
+    "chunk_id": "njit_cs_course_catalog::chunk_28",
+    "char_start": 11200,
+    "char_end": 11700
+  },
+  {
+    "text": "DESCRIPTION: Official 4-year plan of study for the B.S. in Computer Science at NJIT (120 credits minimum)\n\nB.S. in Computer Science - New Jersey Institute of Technology (2025-2026)\n\nAcademic Advisor:\nTotal Credits Required: 120 minimum\n\nFIRST YEAR\n\nSemester 1:\n- CS 100: Roadmap to Computing (3 credits)\n- MATH 111: Calculus I (4 credits)\n- ENGL 101: English Composition: Introduction to Academic Writing (3 credits)\n- PHYS 111: Physics I (3 credits)\n- PHYS 111A: Physics I Lab (1 credit)\n- FYS SEM:",
+    "source": "njit_cs_curriculum_bs",
+    "chunk_id": "njit_cs_curriculum_bs::chunk_0",
+    "char_start": 0,
+    "char_end": 500
+  },
+  {
+    "text": "ting (3 credits)\n- PHYS 111: Physics I (3 credits)\n- PHYS 111A: Physics I Lab (1 credit)\n- FYS SEM: First-Year Student Seminar (0 credits)\nTerm Credits: 14\n\nSemester 2:\n- CS 113: Introduction to Computer Science I (3 credits)\n- MATH 112: Calculus II (4 credits)\n- ENGL 102: English Composition: Introduction to Writing for Research (3 credits)\n- PHYS 121: Physics II (3 credits)\n- PHYS 121A: Physics II Lab (1 credit)\nTerm Credits: 14\n\nSECOND YEAR",
+    "source": "njit_cs_curriculum_bs",
+    "chunk_id": "njit_cs_curriculum_bs::chunk_1",
+    "char_start": 400,
+    "char_end": 849
+  },
+  {
+    "text": "II Lab (1 credit)\nTerm Credits: 14\n\nSECOND YEAR\n\nSemester 1:\n- CS 114: Introduction to Computer Science II (3 credits)\n- CS/IS/IT Elective 200 or above (3 credits)\n- MATH 333: Probability and Statistics (3 credits)\n- Science Elective (3 credits)\n- History and Humanities GER 200 level (3 credits)\nTerm Credits: 15\n\nSemester 2:\n- CS 241: Foundations of Computer Science I (3 credits)\n- CS 280: Programming Language Concepts (3 credits)\n- IS 350: Computers, Society and Ethics (3 credits)\n- COM 312 or",
+    "source": "njit_cs_curriculum_bs",
+    "chunk_id": "njit_cs_curriculum_bs::chunk_2",
+    "char_start": 800,
+    "char_end": 1300
+  },
+  {
+    "text": "ming Language Concepts (3 credits)\n- IS 350: Computers, Society and Ethics (3 credits)\n- COM 312 or COM 313: Effective Communication or Writing in the Workplace (3 credits)\n- MATH 337: Linear Algebra (3 credits)\n- YWCC 207: Computing & Effective Com (1 credit)\nTerm Credits: 16\n\nTHIRD YEAR\n\nSemester 1:\n- CS 288: Intensive Programming in Linux (3 credits)\n- CS 332: Principles of Operating Systems (3 credits)\n- Social Sciences GER (3 credits)\n- CS 301: Introduction to Data Science (3 credits)\n- CS",
+    "source": "njit_cs_curriculum_bs",
+    "chunk_id": "njit_cs_curriculum_bs::chunk_3",
+    "char_start": 1200,
+    "char_end": 1700
+  },
+  {
+    "text": "credits)\n- Social Sciences GER (3 credits)\n- CS 301: Introduction to Data Science (3 credits)\n- CS 356: Introduction to Computer Networks (3 credits)\nTerm Credits: 15\n\nSemester 2:\n- CS 331: Database System Design & Management (3 credits)\n- YWCC 307: Professional Dev in Computing (1 credit)\n- CS Elective 300 or above (3 credits)\n- CS 341: Foundations of Computer Science II (3 credits)\n- CS 350: Intro to Computer Systems (3 credits)\n- CS 351: Introduction to Cybersecurity (3 credits)\nTerm Credits",
+    "source": "njit_cs_curriculum_bs",
+    "chunk_id": "njit_cs_curriculum_bs::chunk_4",
+    "char_start": 1600,
+    "char_end": 2100
+  },
+  {
+    "text": "tro to Computer Systems (3 credits)\n- CS 351: Introduction to Cybersecurity (3 credits)\nTerm Credits: 16\n\nFOURTH YEAR\n\nSemester 1:\n- CS 435: Advanced Data Structures and Algorithm Design (3 credits)\n- CS 490: Guided Design in Software Engineering (3 credits)\n- History and Humanities GER 300+ level (3 credits)\n- CS Elective 300 or above (3 credits)\n- CS Elective 300 or above (3 credits)\nTerm Credits: 15\n\nSemester 2:\n- CS 491: Senior Project (3 credits)\n- Humanities and Social Science Senior Semin",
+    "source": "njit_cs_curriculum_bs",
+    "chunk_id": "njit_cs_curriculum_bs::chunk_5",
+    "char_start": 2000,
+    "char_end": 2500
+  },
+  {
+    "text": "s: 15\n\nSemester 2:\n- CS 491: Senior Project (3 credits)\n- Humanities and Social Science Senior Seminar GER (3 credits)\n- CS Elective 300 or above (3 credits)\n- General Elective (3 credits)\n- CS/IS/IT Elective 200 or above (3 credits)\nTerm Credits: 15\n\nTotal Credits: 120\n\nMINIMUM GRADES:\nStudents are expected to earn a grade of B or better in CS 100. Students are expected to earn a grade of C or better in all CS courses that serve as prerequisites in a sequence of courses.",
+    "source": "njit_cs_curriculum_bs",
+    "chunk_id": "njit_cs_curriculum_bs::chunk_6",
+    "char_start": 2400,
+    "char_end": 2878
+  },
+  {
+    "text": "tter in all CS courses that serve as prerequisites in a sequence of courses.\n\nCO-OP:\nA GPA of 2.7 is required to enroll in co-op. Students may use up to 6 credits of co-op toward their general elective requirements.\n\nKEY REQUIRED CS COURSES (core sequence):\nCS 100 → CS 113 → CS 114 → CS 241 → CS 280 → CS 288 → CS 332 → CS 341 → CS 350 → CS 435 → CS 490 → CS 491\n\nCS 288: Intensive Programming in Linux is taken in Third Year, Semester 1.\nCS 280: Programming Language Concepts is taken in Second Yea",
+    "source": "njit_cs_curriculum_bs",
+    "chunk_id": "njit_cs_curriculum_bs::chunk_7",
+    "char_start": 2800,
+    "char_end": 3300
+  },
+  {
+    "text": "nux is taken in Third Year, Semester 1.\nCS 280: Programming Language Concepts is taken in Second Year, Semester 2.\nCS 332: Principles of Operating Systems is taken in Third Year, Semester 1.\nCS 350: Intro to Computer Systems is taken in Third Year, Semester 2.",
+    "source": "njit_cs_curriculum_bs",
+    "chunk_id": "njit_cs_curriculum_bs::chunk_8",
+    "char_start": 3200,
+    "char_end": 3700
+  },
+  {
+    "text": "DESCRIPTION: Graduate CS program overview, faculty list, and all graduate CS course descriptions (2025-2026)\n\nNJIT DEPARTMENT OF COMPUTER SCIENCE - GRADUATE CATALOG\n\nDepartment Chair: Vincent Oria\nAssociate Chair: Ioannis Koutis\n\nOVERVIEW:\nComputing has become integrated into every aspect of business, science, engineering, medicine, and daily life, and is undergoing rapid evolution. NJIT's Department of Computer Science is dedicated to meeting the demands of the private and public sectors by pro",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_0",
+    "char_start": 0,
+    "char_end": 500
+  },
+  {
+    "text": "ent of Computer Science is dedicated to meeting the demands of the private and public sectors by producing highly qualified computing professionals. We provide a top-notch computer science education that empowers our graduates to achieve remarkable success in their careers at renowned tech companies, start-ups, government agencies, and nonprofit organizations. Our programs equip students with both the theoretical foundations and practical skills necessary not only to excel in the short term, but",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_1",
+    "char_start": 400,
+    "char_end": 900
+  },
+  {
+    "text": "the theoretical foundations and practical skills necessary not only to excel in the short term, but also be adaptive to the ever-changing landscape of technology.\n\nDEGREE PROGRAMS OFFERED:\n- B.A. in Computer Science\n- B.S. in Computer Science\n- M.S. in Computer Science\n- M.S. in Cybersecurity and Privacy\n- M.S. in Software Engineering\n- M.S. in Bioinformatics\n- Ph.D. in Computer Science\n\nThe MS in Computer Science offers a well-rounded advanced education.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_2",
+    "char_start": 800,
+    "char_end": 1261
+  },
+  {
+    "text": "n Computer Science offers a well-rounded advanced education. Students can select courses from various areas including artificial intelligence, cybersecurity, computer algorithms, data management, programming languages and environments, systems, software engineering and other advanced topics.\n\nFACULTY:\nArafeh, Bassel - Senior University Lecturer\nArya, Shivvrat - Assistant Professor\nBakhshaliyev, Khalid - Senior University Lecturer\nBasu Roy, Senjuti - Associate Professor\nBerenjian, Samaneh - Senio",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_3",
+    "char_start": 1200,
+    "char_end": 1700
+  },
+  {
+    "text": "alid - Senior University Lecturer\nBasu Roy, Senjuti - Associate Professor\nBerenjian, Samaneh - Senior University Lecturer\nBorcea, Cristian M. - Professor\nCalvin, James M. - Professor\nCurtmola, Reza - Professor\nDale, Mohit - University Lecturer\nDing, Xiaoning - Associate Professor\nEljabiri, Osama - Senior University Lecturer\nEren, Canan - Senior University Lecturer\nEskandari, Marzieh - Senior University Lecturer\nGerbessiotis, Alexandros - Associate Professor\nGotsman, Craig J.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_4",
+    "char_start": 1600,
+    "char_end": 2080
+  },
+  {
+    "text": "rsity Lecturer\nGerbessiotis, Alexandros - Associate Professor\nGotsman, Craig J. - Distinguished Professor\nHamidli, Fuad - Senior University Lecturer\nHoule, Michael - Senior University Lecturer\nItani, Abdul-Rahman M. - Senior University Lecturer\nJayarajah, Kasthuri - Assistant Professor\nKapleau, Jonathan J. - University Lecturer\nKaur, Arashdeep - Senior University Lecturer\nKellogg, Martin - Assistant Professor\nKoutis, Ioannis - Associate Professor\nLay, Larry - Professor of Practice\nLe, Huong - Un",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_5",
+    "char_start": 2000,
+    "char_end": 2500
+  },
+  {
+    "text": "nt Professor\nKoutis, Ioannis - Associate Professor\nLay, Larry - Professor of Practice\nLe, Huong - University Lecturer\nLi, Jing - Assistant Professor\nLi, Yajuan - University Lecturer\nLin, Tsung-Chi - Assistant Professor\nLiu, Chengjun - Professor\nMani, Kumar - Senior University Lecturer\nMili, Ali - Professor and Associate Dean for Academic Affairs\nMurphy, Kieran - Assistant Professor\nMusialski, Przemyslaw - Associate Professor\nNaik, Kamlesh - University Lecturer\nNakayama, Marvin K.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_6",
+    "char_start": 2400,
+    "char_end": 2885
+  },
+  {
+    "text": "myslaw - Associate Professor\nNaik, Kamlesh - University Lecturer\nNakayama, Marvin K. - Professor\nNeamtiu, Iulian - Professor\nOria, Vincent - Professor\nPayton, Jamie - Dean, Professor\nPerl, Yehoshua - Professor\nQerimaj, Jertishta - University Lecturer\nRaza, Asad - Senior University Lecturer\nRohloff, Kurt - Associate Professor\nRusinkiewicz, Marek E. - Dean Emeritus\nRutkowski, Wallace - Senior University Lecturer\nSchieber, Baruch - Professor\nSharma, Shantanu - Assistant Professor\nShi, Cong - Assist",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_7",
+    "char_start": 2800,
+    "char_end": 3300
+  },
+  {
+    "text": "sity Lecturer\nSchieber, Baruch - Professor\nSharma, Shantanu - Assistant Professor\nShi, Cong - Assistant Professor\nShih, Frank Y. - Professor\nSohn, Andrew - Associate Professor\nSpirollari, Junilda - Director of First Year of Computer Science Education\nTheodoratos, Dimitrios - Associate Professor\nVaish, Prabhat - Senior University Lecturer\nWang, Jason T. - Professor\nWang, Guiling (Grace) - Distinguished Professor, Associate Dean for Research\nWei, Zhi - Distinguished Professor\nXu, Pan - Assistant P",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_8",
+    "char_start": 3200,
+    "char_end": 3700
+  },
+  {
+    "text": "shed Professor, Associate Dean for Research\nWei, Zhi - Distinguished Professor\nXu, Pan - Assistant Professor\nYao, Zhihao - Assistant Professor\nZaidenberg, Ayelet - University Lecturer\nZhang, Haotian - Assistant Professor\n\nNote: Professors who teach undergrad CS 280, CS 288, CS 332, CS 350 include:\n- Mohit Dale (University Lecturer) - teaches CS 288\n- Abdul-Rahman M. Itani (Senior University Lecturer) - teaches CS 288\n- Xiaoning Ding (Associate Professor) - teaches CS 288",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_9",
+    "char_start": 3600,
+    "char_end": 4077
+  },
+  {
+    "text": "er) - teaches CS 288\n- Xiaoning Ding (Associate Professor) - teaches CS 288\n\nGRADUATE COURSE DESCRIPTIONS:\n\nCS 505. Programming, Data Structures, and Algorithms. 3 credits.\nPrerequisites: Basic knowledge of a higher-level programming language. A higher-level programming language (e.g. C++/Java); program design techniques; introductory data structures (linked lists, stacks, sets, trees, graphs); and algorithms (sorting, searching, etc.) and their analysis. Programming assignments are included.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_10",
+    "char_start": 4000,
+    "char_end": 4499
+  },
+  {
+    "text": "d algorithms (sorting, searching, etc.) and their analysis. Programming assignments are included.\n\nCS 506. Foundations of Computer Science. 3 credits.\nPrerequisites: Basic knowledge of a higher-level programming language. Introduction to the concepts of iteration, asymptotic performance analysis of algorithms, recursion, recurrence relations, graphs, automata and logic, and also surveys the main data models used in computer science including trees, lists, sets, and relations.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_11",
+    "char_start": 4400,
+    "char_end": 4881
+  },
+  {
+    "text": "ata models used in computer science including trees, lists, sets, and relations. Programming assignments are given.\n\nCS 602. Java Programming. 3 credits.\nPrerequisite: Advanced Web-based programming with an emphasis on the Java language and platform. Topics include: networking and sockets, remote method invocation (RMI), database connectivity (JDBC), Java Beans, multi-threading and lightweight components (Swing).\n\nCS 608. Cryptography and Security.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_12",
+    "char_start": 4800,
+    "char_end": 5253
+  },
+  {
+    "text": "ponents (Swing).\n\nCS 608. Cryptography and Security. 3 credits.\nTopics: Security threats in communication systems; conventional cryptography; distribution of secret key over the Internet; principles of public-key cryptography; RSA and other public-key cryptographic methods; and digital signature protocol.\n\nCS 610. Data Structures and Algorithms. 3 credits.\nPrerequisites: CS 114 and CS 241 or equivalents. Intensive study of the fundamentals of data structures and algorithms.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_13",
+    "char_start": 5200,
+    "char_end": 5679
+  },
+  {
+    "text": "alents. Intensive study of the fundamentals of data structures and algorithms. Covers a broad variety of data structures, algorithms and their applications including linked lists, various tree organizations, hash tables, strings, storage allocation, algorithms for searching and sorting.\n\nCS 611. Introduction to Computational Complexity. 3 credits.\nPrerequisites: CS 610 or CS 435, or doctoral student status. Covers: Computability, Reductions, NP-Completeness and Time Complexity, Space Complexity,",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_14",
+    "char_start": 5600,
+    "char_end": 6100
+  },
+  {
+    "text": "nt status. Covers: Computability, Reductions, NP-Completeness and Time Complexity, Space Complexity, Computational Hierarchies, Parameterized and Fine-Grained Complexity, Interactive Proofs, Complexity of Counting, and Basic Cryptography.\n\nCS 630. Operating System Design. 3 credits.\nPrerequisites: Knowledge of CS 332 and CS 505 or equivalent courses. An intensive study of computer operating system design including multiprogramming, time-sharing, real-time processing, job and task control, synchr",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_15",
+    "char_start": 6000,
+    "char_end": 6500
+  },
+  {
+    "text": "design including multiprogramming, time-sharing, real-time processing, job and task control, synchronization of concurrent processes and processors, resource scheduling, protection, and management of hierarchical storage.\n\nCS 631. Data Management System Design. 3 credits.\nPrerequisites: Knowledge of C and data structures. Mathematical properties and usage of database programming languages. Methods of database design and conceptual modeling. Methods of physical storage for database information.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_16",
+    "char_start": 6400,
+    "char_end": 6900
+  },
+  {
+    "text": "s of database design and conceptual modeling. Methods of physical storage for database information. Fundamental notions of concurrency control and recovery in database systems.\n\nCS 632. Advanced Database System Design. 3 credits.\nPrerequisites: CS 631 and good knowledge of a high-level programming language. Covers rapidly changing concepts and principles of modern database systems based on SQL. Additional topics: advanced data modeling, OODBs, parallel and distributed database systems, XML and N",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_17",
+    "char_start": 6800,
+    "char_end": 7300
+  },
+  {
+    "text": "ditional topics: advanced data modeling, OODBs, parallel and distributed database systems, XML and NO-SQL databases, Web-database systems, active databases, multimedia and text databases, database security, query optimization.\n\nCS 634. Data Mining. 3 credits.\nCovers principles of data mining system design and implementation. Presents methods for association and dependency analysis as well as classification, prediction, and clustering.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_18",
+    "char_start": 7200,
+    "char_end": 7640
+  },
+  {
+    "text": "ification, prediction, and clustering.\n\nCS 635. Computer Programming Languages. 3 credits.\nPrerequisites: Knowledge of a high-level programming language and CS 505 or equivalent. The theory and design of computer language systems; formal theory of syntax and language classification; survey of procedure and problem-oriented languages, their syntax rules, data structures, and operations; control structures.\n\nCS 636. Data Analytics with R Program.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_19",
+    "char_start": 7600,
+    "char_end": 8049
+  },
+  {
+    "text": "uctures.\n\nCS 636. Data Analytics with R Program. 3 credits.\nPrerequisites: Knowledge of programming, probability, and statistics. Teaches data analytics with R programming. Popular R packages for data science will be introduced. Core course in data science.\n\nCS 643. Cloud Computing. 3 credits.\nPrerequisites: CS 644 or CS 656 or ECE 637. Comprehensive view of cloud computing, from platforms and services to programming and infrastructure.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_20",
+    "char_start": 8000,
+    "char_end": 8441
+  },
+  {
+    "text": "vices to programming and infrastructure. Topics include: cloud computing platforms (AWS, Google Cloud, Microsoft Azure), cloud services for data analytics, machine learning, mobile computing, IoT, edge computing, security and privacy, and devops.\n\nCS 644. Introduction to Big Data. 3 credits.\nPrerequisite: Permission of the instructor. In-depth coverage of big data from data generation, storage, management, transfer, to analytics, with focus on state-of-the-art technologies, tools, architectures,",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_21",
+    "char_start": 8400,
+    "char_end": 8900
+  },
+  {
+    "text": "nagement, transfer, to analytics, with focus on state-of-the-art technologies, tools, architectures, and systems.\n\nCS 645. Security and Privacy in Computer Systems. 3 credits.\nCovers fundamental principles of building secure systems and techniques to ensure data security and privacy. Topics include access control mechanisms, operating systems security, malicious code threats, trusted computing, content protection, and database security.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_22",
+    "char_start": 8800,
+    "char_end": 9242
+  },
+  {
+    "text": "ntent protection, and database security.\n\nCS 646. Network Protocols Security. 3 credits.\nPrerequisites: CS 656 and ability to program in Java and C/C++. Covers security of network protocols currently used on the internet. Topics include authentication systems, routing security, firewalls, intrusion detection, honeypots, wireless network security, malware.\n\nCS 647. Counter Hacking Techniques. 3 credits.\nPrerequisites: CS 645 or CS 646 or CS 696 or approval of instructor.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_23",
+    "char_start": 9200,
+    "char_end": 9675
+  },
+  {
+    "text": "dits.\nPrerequisites: CS 645 or CS 646 or CS 696 or approval of instructor. Advanced techniques for offensive or defensive goals in network, computer systems and applications. Topics: system memory organizations, assembly language fundamentals, fuzzing based security testing, developing local and remote Linux and Windows exploits, shellcode development.\n\nCS 650. Computer Architecture. 3 credits.\nPrerequisites: Knowledge of CS 350 or equivalent.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_24",
+    "char_start": 9600,
+    "char_end": 10048
+  },
+  {
+    "text": "erequisites: Knowledge of CS 350 or equivalent. Topics: exploiting parallelism, memory hierarchy, storage systems, multicore systems, vector machines, GPUs, and multiprocessors. Discusses cybersecurity issues arising out of speculative execution.\n\nCS 652. Cognitive Cloud Networking. 3 credits.\nPrerequisite: CS 656. Provides foundation of multi-cloud network environment. Covers networking architectures that empower today's cloud provider networks including CDN and 5G.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_25",
+    "char_start": 10000,
+    "char_end": 10473
+  },
+  {
+    "text": "ures that empower today's cloud provider networks including CDN and 5G.\n\nCS 656. Internet and Higher-Layer Protocols. 3 credits.\nIntroduces the protocols and standards of the TCP/IP suite that govern the functioning of the Internet. Top-down approach on protocols from the data-link layer to the application layer.\n\nCS 659. Image Processing and Analysis. 3 credits.\nFundamentals of image processing, analysis and understanding.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_26",
+    "char_start": 10400,
+    "char_end": 10828
+  },
+  {
+    "text": "analysis and understanding. Topics include image representation, image data compression, image enhancement and restoration, feature extraction and shape analysis.\n\nCS 670. Artificial Intelligence. 3 credits.\nPrerequisites: Proficiency in Python, knowledge of CS 506, DS 637. Covers key representations, techniques, and computational models for intelligent systems. Topics: blind and heuristic search, knowledge representation, logic programming, constraint satisfaction, handling uncertainty, machine",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_27",
+    "char_start": 10800,
+    "char_end": 11300
+  },
+  {
+    "text": "knowledge representation, logic programming, constraint satisfaction, handling uncertainty, machine learning approaches, NLP, computer vision, robotics, ethical considerations.\n\nCS 673. Software Design and Production Methodology. 3 credits.\nModern techniques and methods employed in the development of large software systems, from conception to obsolescence. Topics: cost/performance evaluation, documentation requirements, system design and production techniques, system verification techniques, pr",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_28",
+    "char_start": 11200,
+    "char_end": 11700
+  },
+  {
+    "text": "umentation requirements, system design and production techniques, system verification techniques, project organization and management.\n\nCS 675. Machine Learning. 3 credits.\nPrerequisites: Basic probability, linear algebra, computer programming, and graduate or undergraduate senior standing. Introduction to machine learning with both theory and applications. Topics: Bayesian classification, perceptron, neural networks, logistic regression, SVM, decision trees, random forests, boosting, dimensiona",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_29",
+    "char_start": 11600,
+    "char_end": 12100
+  },
+  {
+    "text": "ron, neural networks, logistic regression, SVM, decision trees, random forests, boosting, dimensionality reduction.\n\nCS 677. Deep Learning. 3 credits.\nPrerequisites: CS 675 or approval of instructor. Topics: parallel programming on GPU and CPU multi-cores, deep learning, representation learning, optimization algorithms, algorithms for big datasets.\n\nCS 680. Linux Kernel Programming. 3 credits.\nIn-depth study of how the Linux operating system is built from scratch.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_30",
+    "char_start": 12000,
+    "char_end": 12469
+  },
+  {
+    "text": "depth study of how the Linux operating system is built from scratch. Hands-on course covering machine booting, segmentation and paging memory management, creating and destroying processes, process switching and scheduling, handling exceptions and hardware interrupts.\n\nCS 683. Software Project Management. 3 credits.\nBackground for managing software projects including economic, managerial and organizational aspects. Topics: software management technique, various software costing techniques includi",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_31",
+    "char_start": 12400,
+    "char_end": 12900
+  },
+  {
+    "text": "zational aspects. Topics: software management technique, various software costing techniques including COCOMO and ROI, team organization and management, various methods of software development including Cleanroom and Agile.\n\nCS 684. Software Testing and Quality Assurance. 3 credits.\nDiscusses software faults and techniques to reduce faults and improve software quality. Topics: software specifications, goals of testing, techniques of test data selection, test oracle design, test lifecycle and qua",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_32",
+    "char_start": 12800,
+    "char_end": 13300
+  },
+  {
+    "text": "ons, goals of testing, techniques of test data selection, test oracle design, test lifecycle and quality impacts of testing.\n\nCS 685. Software Architecture. 3 credits.\nProvides working knowledge of the terms, principles and methods of software architecture and module design. The \"4+1\" architecture model is taught with architectural styles, interface isolation, decoupling, reuse, agile design with software patterns.\n\nCS 732. Advanced Machine Learning.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_33",
+    "char_start": 13200,
+    "char_end": 13655
+  },
+  {
+    "text": "software patterns.\n\nCS 732. Advanced Machine Learning. 3 credits.\nPrerequisites: CS 634 or CS 670 or CS 675 or CS 677 or instructor permission. Explores contemporary advanced topics in machine learning with emphasis on understanding neural networks. Topics: foundations of generalization including uniform convergence bounds, complexity measures, and modern perspectives on overparameterized models.\n\nCS 744. Data Mining and Management in Bioinformatics.",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_34",
+    "char_start": 13600,
+    "char_end": 14055
+  },
+  {
+    "text": "CS 744. Data Mining and Management in Bioinformatics. 3 credits.\nPrerequisites: CS 610 or permission of the instructor. Concepts and principles of bioinformatic data mining and management with focus on efficiency and scalability.\n\nCS 750. High Performance Computing. 3 credits.\nPrerequisite: CS 650. Topics: parallel computer architectures, programming paradigms (MPI, multithreaded programming), and their applications including PC clusters, shared-memory multiprocessors, distributed-memory multip",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_35",
+    "char_start": 14000,
+    "char_end": 14500
+  },
+  {
+    "text": "d their applications including PC clusters, shared-memory multiprocessors, distributed-memory multiprocessors.\n\nCS 782. Pattern Recognition and Applications. 3 credits.\nPrerequisite: CS 610. Topics: statistical estimation theory, classifier design, parameter estimation and unsupervised learning, linear discriminant functions, tree classifiers, feature extraction, clustering, Support Vector machines (SVM), Bayesian Learning, Hidden Markov Models (HMM).",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_36",
+    "char_start": 14400,
+    "char_end": 14857
+  },
+  {
+    "text": "s (SVM), Bayesian Learning, Hidden Markov Models (HMM).\n\nGRADUATE CERTIFICATE PROGRAMS:\n- Computer Science Certificate\n- Foundations of Cybersecurity Certificate\n- Hyperscale Computing Certificate\n- Software Engineering, Analysis, and Design Certificate",
+    "source": "njit_cs_graduate_catalog",
+    "chunk_id": "njit_cs_graduate_catalog::chunk_37",
+    "char_start": 14800,
+    "char_end": 15300
+  },
+  {
+    "text": "DESCRIPTION: Course ratings for NJIT CS courses including overall rating, easiness, interest, and usefulness scores.\n\nNJIT CS COURSE RATINGS (from ratemycourses.io)\n\nCourses with reviews:\n- CS 280: Programming Language Concepts | Overall: 2/5 | Easiness: 1.5/5 | Interest: 2/5 | Usefulness: 2.5/5 | Reviews: 2\nStudents rate CS 280 as a difficult course with low overall satisfaction. Easiness score of 1.5 suggests students find it very challenging.",
+    "source": "ratemycourses_njit_cs",
+    "chunk_id": "ratemycourses_njit_cs::chunk_0",
+    "char_start": 0,
+    "char_end": 450
+  },
+  {
+    "text": "f 1.5 suggests students find it very challenging. The usefulness score (2.5) is slightly better than the overall and interest ratings.\n\n- CS 610: Data Structures and Algorithms (Graduate) | Overall: 4/5 | Easiness: 2/5 | Interest: 4/5 | Usefulness: 4/5 | Reviews: 1\nCS 610 at the graduate level receives much higher marks for interest and usefulness despite still being rated as difficult (easiness 2/5).\n\nCourses with no reviews yet (ratings = 0):\nCS 288: Intensive Programming in Linux - No reviews",
+    "source": "ratemycourses_njit_cs",
+    "chunk_id": "ratemycourses_njit_cs::chunk_1",
+    "char_start": 400,
+    "char_end": 900
+  },
+  {
+    "text": "/5).\n\nCourses with no reviews yet (ratings = 0):\nCS 288: Intensive Programming in Linux - No reviews\nCS 332: Principles of Operating Systems - No reviews\nCS 350: Intro to Computer Systems - No reviews\nCS 341: Foundations of Computer Science II - No reviews\nCS 241: Foundations of Computer Science I - No reviews\nCS 435: Advanced Data Structures and Algorithm Design - No reviews\nCS 356: Introduction to Computer Networks - No reviews\nCS 351: Introduction to Cybersecurity - No reviews\nCS 331: Databas",
+    "source": "ratemycourses_njit_cs",
+    "chunk_id": "ratemycourses_njit_cs::chunk_2",
+    "char_start": 800,
+    "char_end": 1300
+  },
+  {
+    "text": "to Computer Networks - No reviews\nCS 351: Introduction to Cybersecurity - No reviews\nCS 331: Database System Design & Management - No reviews\nCS 490: Guided Design in Software Engineering - No reviews\nCS 491: Senior Project - No reviews\nCS 370: Introduction to Artificial Intelligence - No reviews\nCS 301: Introduction to Data Science - No reviews\nCS 114: Introduction to Computer Science II - No reviews\nCS 113: Introduction to Computer Science - No reviews",
+    "source": "ratemycourses_njit_cs",
+    "chunk_id": "ratemycourses_njit_cs::chunk_3",
+    "char_start": 1200,
+    "char_end": 1660
+  },
+  {
+    "text": "iews\nCS 113: Introduction to Computer Science - No reviews\n\nFULL COURSE LIST FOR NJIT CS DEPARTMENT:\nCS 100: Roadmap to Computing\nCS 101: Computer Programming and Problem Solving\nCS 103: Computer Science with Business Problems\nCS 104: Computer Programming and Graphics Problems\nCS 106: Roadmap to Computing for Engineers\nCS 107: Computing As A Career\nCS 113: Introduction to Computer Science\nCS 114: Introduction to Computer Science II\nCS 115: Introduction to Computer Science in C++\nCS 116: Introduc",
+    "source": "ratemycourses_njit_cs",
+    "chunk_id": "ratemycourses_njit_cs::chunk_4",
+    "char_start": 1600,
+    "char_end": 2100
+  },
+  {
+    "text": "Introduction to Computer Science II\nCS 115: Introduction to Computer Science in C++\nCS 116: Introduction to Computer Science II in C++\nCS 207: Computing & Effective Com\nCS 241: Foundations of Computer Science I\nCS 252: Computer Org & Architecture\nCS 280: Programming Language Concepts - RATED: Overall 2, Easiness 1.5, Usefulness 2.5 (2 reviews)\nCS 288: Intensive Programming in Linux\nCS 301: Introduction to Data Science\nCS 310: Co-op Work Experience I\nCS 331: Database System Design & Management\nCS",
+    "source": "ratemycourses_njit_cs",
+    "chunk_id": "ratemycourses_njit_cs::chunk_5",
+    "char_start": 2000,
+    "char_end": 2500
+  },
+  {
+    "text": "ction to Data Science\nCS 310: Co-op Work Experience I\nCS 331: Database System Design & Management\nCS 332: Principles of Operating Systems\nCS 337: Performance Modeling in Computing\nCS 341: Foundations of Computer Science II\nCS 345: Web Search\nCS 350: Intro to Computer Systems\nCS 351: Introduction to Cybersecurity\nCS 356: Introduction to Computer Networks\nCS 357: Fundamentals of Network Security\nCS 370: Introduction to Artificial Intelligence\nCS 388: Android Application Development\nCS 407: Profess",
+    "source": "ratemycourses_njit_cs",
+    "chunk_id": "ratemycourses_njit_cs::chunk_6",
+    "char_start": 2400,
+    "char_end": 2900
+  },
+  {
+    "text": "370: Introduction to Artificial Intelligence\nCS 388: Android Application Development\nCS 407: Professional Dev in Computing\nCS 408: Cryptography & Internet Security\nCS 410: Co-op Work Experience II\nCS 431: Intro Database Systems\nCS 433: Introduction to Linux Kernel Programming\nCS 434: Advanced Database Systems\nCS 435: Advanced Data Structures and Algorithm Design\nCS 438: Interactive Computer Graphics\nCS 482: Data Mining\nCS 485: Special Topics\nCS 488: Independent Study in Computer Science\nCS 490:",
+    "source": "ratemycourses_njit_cs",
+    "chunk_id": "ratemycourses_njit_cs::chunk_7",
+    "char_start": 2800,
+    "char_end": 3300
+  },
+  {
+    "text": "cs\nCS 482: Data Mining\nCS 485: Special Topics\nCS 488: Independent Study in Computer Science\nCS 490: Guided Design in Software Engineering\nCS 491: Senior Project\nCS 505: Programming, Data Structures, and Algorithms (Graduate Bridge)\nCS 506: Foundations of Computer Science (Graduate Bridge)\nCS 602: Java Programming (Graduate)\nCS 608: Cryptography and Security (Graduate)\nCS 610: Data Structures and Algorithms (Graduate) - RATED: Overall 4, Easiness 2, Interest 4, Usefulness 4 (1 review)\nCS 630: Ope",
+    "source": "ratemycourses_njit_cs",
+    "chunk_id": "ratemycourses_njit_cs::chunk_8",
+    "char_start": 3200,
+    "char_end": 3700
+  },
+  {
+    "text": "lgorithms (Graduate) - RATED: Overall 4, Easiness 2, Interest 4, Usefulness 4 (1 review)\nCS 630: Operating System Design (Graduate)\nCS 634: Data Mining (Graduate)\nCS 643: Cloud Computing (Graduate)\nCS 644: Introduction to Big Data (Graduate)\nCS 645: Security and Privacy in Computer Systems (Graduate)\nCS 670: Artificial Intelligence (Graduate)\nCS 675: Machine Learning (Graduate)\nCS 677: Deep Learning (Graduate)\nCS 680: Linux Kernel Programming (Graduate)",
+    "source": "ratemycourses_njit_cs",
+    "chunk_id": "ratemycourses_njit_cs::chunk_9",
+    "char_start": 3600,
+    "char_end": 4059
+  },
+  {
+    "text": "ng (Graduate)\nCS 680: Linux Kernel Programming (Graduate)\n\nSUMMARY: CS 280 (Programming Language Concepts) is consistently rated as one of the most difficult and least interesting undergraduate CS courses at NJIT based on available student ratings. The course has low scores across all dimensions (overall 2/5, easiness 1.5/5, interest 2/5) suggesting students find it challenging and not particularly engaging. CS 610 (graduate Data Structures) is rated highly for interest and usefulness (4/5 each)",
+    "source": "ratemycourses_njit_cs",
+    "chunk_id": "ratemycourses_njit_cs::chunk_10",
+    "char_start": 4000,
+    "char_end": 4500
+  },
+  {
+    "text": "y engaging. CS 610 (graduate Data Structures) is rated highly for interest and usefulness (4/5 each) despite moderate difficulty.",
+    "source": "ratemycourses_njit_cs",
+    "chunk_id": "ratemycourses_njit_cs::chunk_11",
+    "char_start": 4400,
+    "char_end": 4900
+  },
+  {
+    "text": "DESCRIPTION: Reddit thread discussing which professor (Itani or Ding) to choose for CS 288 at NJIT\nNOTE: Original post captured. The 8 comments were not visible (Reddit hides them behind login on new layout). To get comments, try old.reddit.com/r/NJTech/comments/qtkuhj/ or scroll past the \"People also ask\" section while logged in.\n\nThread Title: Itani or Ding for CS288?\nSubreddit: r/NJTech\nCourse: CS 288 - Intensive Programming in Linux\nUpvotes: 6 | Comments: 8",
+    "source": "reddit_cs288_professor_choice",
+    "chunk_id": "reddit_cs288_professor_choice::chunk_0",
+    "char_start": 0,
+    "char_end": 467
+  },
+  {
+    "text": "CS 288 - Intensive Programming in Linux\nUpvotes: 6 | Comments: 8\n\nORIGINAL POST:\nAll my friends said not to take Itani for CS288 but he has higher ratings than Ding on Rate My Professors, so I'm just unsure. I have Itani for CS100 and I know Python so it's not bad, but he's def not my favorite. Any opinions?\n\nRELATED NJIT STUDY ADVICE (from Reddit Answers, r/NJTech community):\n\nBest study techniques for NJIT students:",
+    "source": "reddit_cs288_professor_choice",
+    "chunk_id": "reddit_cs288_professor_choice::chunk_1",
+    "char_start": 400,
+    "char_end": 824
+  },
+  {
+    "text": "ues for NJIT students:\n\nCore habits:\n- Daily short study blocks beat cramming. If you can get used to studying daily and keeping up with all your courses, you'll save massive amounts of headache and huge study sessions right before the exams.\n- Do practice exams repeatedly until you can do them cold. Around a week before the exam, professors will give you a practice exam. The first time do it without notes, then review, then do it again without notes.\n- Stay ahead of lectures; falling behind is",
+    "source": "reddit_cs288_professor_choice",
+    "chunk_id": "reddit_cs288_professor_choice::chunk_2",
+    "char_start": 800,
+    "char_end": 1300
+  },
+  {
+    "text": "out notes, then review, then do it again without notes.\n- Stay ahead of lectures; falling behind is what breaks students. It's the falling behind that gets you so you really need to learn the material with a similar speed to how your course is progressing.\n\nActive study methods:\n- Explain answers out loud and write reasoning for each problem. Talk to yourself and give your reasoning for each problem.\n- Use targeted YouTube or external instructors to fill gaps.",
+    "source": "reddit_cs288_professor_choice",
+    "chunk_id": "reddit_cs288_professor_choice::chunk_3",
+    "char_start": 1200,
+    "char_end": 1665
+  },
+  {
+    "text": "em.\n- Use targeted YouTube or external instructors to fill gaps. You need to utilize YouTube in addition to your class to get ahead and understand the topics.\n- Make personal projects or practice problems to reinforce skills. Try making some personal projects. If you have an idea, try it, you'll definitely learn something.\n\nTime and course-load management:\n- Trim credit load when a semester is brutal. Try 12-14 credits next semester instead.\n- Choose one or two easier classes to balance a heavy",
+    "source": "reddit_cs288_professor_choice",
+    "chunk_id": "reddit_cs288_professor_choice::chunk_4",
+    "char_start": 1600,
+    "char_end": 2100
+  },
+  {
+    "text": "tal. Try 12-14 credits next semester instead.\n- Choose one or two easier classes to balance a heavy semester. I'm taking 16 but I made sure 2 of those classes were easy compared to the rest.\n- If overwhelmed, consider a planned leave or reduced load and use time to self-study. I took a break and studied 4-5 hours a day the entire period. I came back with a 4.0.\n\nUse campus resources:\n- Join study groups, club tutorials, and departmental resources.\n- Attend in-class reviews and copy professor wal",
+    "source": "reddit_cs288_professor_choice",
+    "chunk_id": "reddit_cs288_professor_choice::chunk_5",
+    "char_start": 2000,
+    "char_end": 2500
+  },
+  {
+    "text": "groups, club tutorials, and departmental resources.\n- Attend in-class reviews and copy professor walkthroughs into notes. After the in class review, take the practice exam a second time and write down everything the prof says.\n- Ask questions early and get help before you fall behind. Always ask questions even if they seem dumb and study outside of course materials to really understand it.\n\nExam-day and short-term tips:\n- Read questions slowly to avoid tricks; practice under timed conditions.",
+    "source": "reddit_cs288_professor_choice",
+    "chunk_id": "reddit_cs288_professor_choice::chunk_6",
+    "char_start": 2400,
+    "char_end": 2898
+  },
+  {
+    "text": "ay and short-term tips:\n- Read questions slowly to avoid tricks; practice under timed conditions. There are always at least 2 open ended questions. They also like adding trick questions, so take your time reading each question.\n- Do homework fully — it is often the best preparation. Do all of your homework. Leading up to the exams, start doing practice problems.\n- Use targeted tools like PythonTutor or GPT for tricky problem types.",
+    "source": "reddit_cs288_professor_choice",
+    "chunk_id": "reddit_cs288_professor_choice::chunk_7",
+    "char_start": 2800,
+    "char_end": 3236
+  },
+  {
+    "text": "or or GPT for tricky problem types. If you still get some wrong, write them down and ask GPT to explain it and generate practice problems similar to that one. You can also use Pythontutor.com.\n\nSummary: Study daily in focused chunks, practice whole exams repeatedly, use outside video lessons and projects to solidify understanding, manage your course load when needed, and use NJIT study groups and tutorials. These habits are what many NJIT students report helped them survive and improve grades.",
+    "source": "reddit_cs288_professor_choice",
+    "chunk_id": "reddit_cs288_professor_choice::chunk_8",
+    "char_start": 3200,
+    "char_end": 3700
+  },
+  {
+    "text": "tutorials. These habits are what many NJIT students report helped them survive and improve grades.\n\nPROFESSOR COMPARISON (from original post context):\n- Professor Itani (Abdul-Rahman M. Itani): Higher RMP rating but some students advise against for CS 288 specifically\n- Professor Ding (Xiaoning Ding): Lower RMP rating but may be preferred by students for CS 288\n- CS 288 - Intensive Programming in Linux is a required course taken in Third Year, Semester 1\n- Students with prior Python knowledge ma",
+    "source": "reddit_cs288_professor_choice",
+    "chunk_id": "reddit_cs288_professor_choice::chunk_9",
+    "char_start": 3600,
+    "char_end": 4100
+  },
+  {
+    "text": "Linux is a required course taken in Third Year, Semester 1\n- Students with prior Python knowledge may find the transition to Linux/C programming easier regardless of professor",
+    "source": "reddit_cs288_professor_choice",
+    "chunk_id": "reddit_cs288_professor_choice::chunk_10",
+    "char_start": 4000,
+    "char_end": 4500
+  },
+  {
+    "text": "DESCRIPTION: Reddit thread asking for recommendations of good CS professors at NJIT. Students name specific professors and courses.\nUpvotes: 3 | Comments: 17\n\nThread Title: Any good CS teachers at NJIT?\nSubreddit: r/NJTech\n\nORIGINAL POST (u/Stuck_In_Vim):\nThis is my third semester here and I do like it. But I've noticed that I have yet to have a CS teacher who actually catches my attention and is good at teaching. I was wondering how many good CS teachers there are at this school?",
+    "source": "reddit_good_cs_teachers",
+    "chunk_id": "reddit_good_cs_teachers::chunk_0",
+    "char_start": 0,
+    "char_end": 486
+  },
+  {
+    "text": "good at teaching. I was wondering how many good CS teachers there are at this school? By contrast I've had 3 math classes by now and all teachers were good.\n\nCOMMENTS:\n\nu/NJTECH_THROW:\nSpirollari (CS100/CS113), Ryan (CS 280), Lay (CS 332), Ionescu (CS 241), Itani (CS 288), Thomson (CS 356), Watson (CS 301), Sresht (CS 435/CS490) are all really great professors.\n[12 upvotes]\n\nu/Stuck_In_Vim (OP):\nI'm saving this list for later :)\n\nu/firewall245:\nRIP Ryan :(",
+    "source": "reddit_good_cs_teachers",
+    "chunk_id": "reddit_good_cs_teachers::chunk_1",
+    "char_start": 400,
+    "char_end": 862
+  },
+  {
+    "text": "'m saving this list for later :)\n\nu/firewall245:\nRIP Ryan :(\n\n[deleted user]:\nIonescu is a trash professor. In his online classes he teaches by holding pieces of paper up to the camera. Not that he was better in person anyway.\n\nu/NJTECH_THROW (reply):\nHard disagree on that. I can't speak about his online teaching, but for CS 241 he was a pretty great teacher. If you didn't get something, he had no problem going over the whole problem again.",
+    "source": "reddit_good_cs_teachers",
+    "chunk_id": "reddit_good_cs_teachers::chunk_2",
+    "char_start": 800,
+    "char_end": 1245
+  },
+  {
+    "text": "problem going over the whole problem again. The reason why people didn't do well in that class imo was because the homework was essentially optional.\n\nu/Altair05:\nItani and Thompson are awesome. Sohn too I guess, but I'm sure he is more divided amongst the student population than the first 2. Sresht is great. There are more, but I haven't had them personally so I can't attest to them.\n[6 upvotes]\n\nu/Chris2112:\nHot take: Sohn is one of the best professors I had in college; the people who dislike",
+    "source": "reddit_good_cs_teachers",
+    "chunk_id": "reddit_good_cs_teachers::chunk_3",
+    "char_start": 1200,
+    "char_end": 1700
+  },
+  {
+    "text": "u/Chris2112:\nHot take: Sohn is one of the best professors I had in college; the people who dislike him or do poorly in his class are just not smart enough. His class wasn't even that hard but it's more on par with the norm at colleges like Stevens.\n[4 upvotes]\n\nu/ProfessorOfLies (reply):\nNot necessarily not smart enough. They might also be lazy.\n\nu/jak3_fromstatefarm:\nThere are some decent ones early I felt but with Ryan gone (RIP) there aren't many fantastic teachers.",
+    "source": "reddit_good_cs_teachers",
+    "chunk_id": "reddit_good_cs_teachers::chunk_4",
+    "char_start": 1600,
+    "char_end": 2076
+  },
+  {
+    "text": "early I felt but with Ryan gone (RIP) there aren't many fantastic teachers. The engineer in residence I had for CS 435 and CS 490 now is great, but he probably won't be here when you take the classes.\n[8 upvotes]\n\nu/studymancareer:\nRyan was really good. (RIP Dr Ryan)\nSohn, Susan are also amazing. As someone else said, Dr Sohn is likely the best IMO. He really makes you learn and those who hate him don't have a willingness to learn.\n[6 upvotes]",
+    "source": "reddit_good_cs_teachers",
+    "chunk_id": "reddit_good_cs_teachers::chunk_5",
+    "char_start": 2000,
+    "char_end": 2449
+  },
+  {
+    "text": "don't have a willingness to learn.\n[6 upvotes]\n\nu/ProfessorOfLies (reply):\nI can second Sohn. Got both my bachelors and masters in CS. He was by far the best.\n\nu/ContrivedControversy:\nItani is awesome and won't take shit from people. If you try hard and do your best to pay attention, he will work his ass off for you. In my CS100 class he stayed up all night grading student exams (again) to make sure they were accurate for the add/drop deadline the following day.",
+    "source": "reddit_good_cs_teachers",
+    "chunk_id": "reddit_good_cs_teachers::chunk_6",
+    "char_start": 2400,
+    "char_end": 2868
+  },
+  {
+    "text": "ure they were accurate for the add/drop deadline the following day. He came into class and looked barely alive, but he did it anyways. Spirollari is also great.\n\nSUMMARY OF PROFESSOR MENTIONS AND SENTIMENT:\n\nHighly recommended professors (multiple positive mentions):\n- Spirollari / Spirolarri: Teaches CS 100, CS 113. Described as great, mentioned multiple times positively. First-year CS professor.\n- Itani (Abdul-Rahman M. Itani): Teaches CS 288.",
+    "source": "reddit_good_cs_teachers",
+    "chunk_id": "reddit_good_cs_teachers::chunk_7",
+    "char_start": 2800,
+    "char_end": 3250
+  },
+  {
+    "text": "- Itani (Abdul-Rahman M. Itani): Teaches CS 288. Described as awesome, dedicated, works hard for students who put in effort. Stayed up all night regrading exams for accuracy. Not everyone's favorite but highly respected.\n- Sohn (Andrew Sohn): Multiple students say he is the best CS professor at NJIT, including one who completed both B.S. and M.S. in CS. Divided opinion — some find him demanding. Makes students truly learn the material.\n- Sresht: Teaches CS 435 (Advanced Data Structures) and CS",
+    "source": "reddit_good_cs_teachers",
+    "chunk_id": "reddit_good_cs_teachers::chunk_8",
+    "char_start": 3200,
+    "char_end": 3700
+  },
+  {
+    "text": "Makes students truly learn the material.\n- Sresht: Teaches CS 435 (Advanced Data Structures) and CS 490 (Software Engineering). Described as great by multiple students.\n- Thomson / Thompson: Teaches CS 356 (Introduction to Computer Networks). Described as awesome.\n- Lay (Larry Lay): Teaches CS 332 (Principles of Operating Systems). Listed among recommended professors.\n- Watson: Teaches CS 301 (Introduction to Data Science).",
+    "source": "reddit_good_cs_teachers",
+    "chunk_id": "reddit_good_cs_teachers::chunk_9",
+    "char_start": 3600,
+    "char_end": 4028
+  },
+  {
+    "text": "roduction to Data Science). Listed among recommended professors.\n- Ionescu: Teaches CS 241 (Foundations of Computer Science I). Mixed reviews — praised for in-person teaching (would re-explain problems patiently), criticized for online teaching (held papers up to camera). Homework described as essentially optional.\n\nDeceased/departed professors:\n- Ryan: Taught CS 280 (Programming Language Concepts). Multiple students mention him with \"RIP\" — was considered a fantastic teacher for CS 280.",
+    "source": "reddit_good_cs_teachers",
+    "chunk_id": "reddit_good_cs_teachers::chunk_10",
+    "char_start": 4000,
+    "char_end": 4493
+  },
+  {
+    "text": "). Multiple students mention him with \"RIP\" — was considered a fantastic teacher for CS 280. His departure is noted as a significant loss for the CS department.\n\nGeneral student sentiment:\n- NJIT math professors are perceived as consistently better teachers than CS professors.\n- Students who put in effort are rewarded by professors like Itani and Sohn.\n- The quality of CS teaching is uneven; finding a good professor requires research.\n- CS 288, CS 332, CS 241, CS 435, and CS 490 have professors",
+    "source": "reddit_good_cs_teachers",
+    "chunk_id": "reddit_good_cs_teachers::chunk_11",
+    "char_start": 4400,
+    "char_end": 4900
+  },
+  {
+    "text": "ng a good professor requires research.\n- CS 288, CS 332, CS 241, CS 435, and CS 490 have professors students specifically recommend.",
+    "source": "reddit_good_cs_teachers",
+    "chunk_id": "reddit_good_cs_teachers::chunk_12",
+    "char_start": 4800,
+    "char_end": 5300
+  },
+  {
+    "text": "DESCRIPTION: Student reviews for Professor Bassel Arafeh, who teaches CS 280 (Programming Language Concepts) at NJIT\n\nPROFESSOR: Bassel Arafeh\nDEPARTMENT: Computer Science\nSCHOOL: New Jersey Institute of Technology\nCOURSE: CS 280 - Programming Language Concepts\n\nOVERALL RATING: 1.8 / 5\nWOULD TAKE AGAIN: 20%\nLEVEL OF DIFFICULTY: 3.8 / 5\nTOTAL RATINGS: 119\n\nRATING DISTRIBUTION:\n- Awesome (5): 15 ratings\n- Great (4): 3 ratings\n- Good (3): 7 ratings\n- OK (2): 14 ratings\n- Awful (1): 81 ratings",
+    "source": "rmp_cs280_professor",
+    "chunk_id": "rmp_cs280_professor::chunk_0",
+    "char_start": 0,
+    "char_end": 496
+  },
+  {
+    "text": "ings\n- Great (4): 3 ratings\n- Good (3): 7 ratings\n- OK (2): 14 ratings\n- Awful (1): 81 ratings\n\nSTUDENT REVIEWS:\n\nReview 1 (Quality: 2.0, Difficulty: 4.0, Grade: B+, Jun 2026):\nHe's not as bad as people say. He basically reads off the lecture the entire class and like 1 month in less than half the people showed up. Just study well for the midterm and final which aren't really like the study guide, but are helpful. PAs and SAs are hard but you can just get help.",
+    "source": "rmp_cs280_professor",
+    "chunk_id": "rmp_cs280_professor::chunk_1",
+    "char_start": 400,
+    "char_end": 866
+  },
+  {
+    "text": "but are helpful. PAs and SAs are hard but you can just get help. Try to avoid but not world ending.\nTags: Tough grader, Lecture heavy, Test heavy\n\nReview 2 (Quality: 1.0, Difficulty: 5.0, Grade: Drop/Withdrawal, May 2026):\nHonestly, one of the most frustrating classes I've ever taken. It constantly felt like questions weren't really being answered. Lectures are basically a Lil Pump concert, just straight mumbling. I'm not even exaggerating when I say this class pushed me to switch my major.\nTag",
+    "source": "rmp_cs280_professor",
+    "chunk_id": "rmp_cs280_professor::chunk_2",
+    "char_start": 800,
+    "char_end": 1300
+  },
+  {
+    "text": "straight mumbling. I'm not even exaggerating when I say this class pushed me to switch my major.\nTags: Get ready to read, Lecture heavy\n\nReview 3 (Quality: 2.0, Difficulty: 5.0, Grade: Not sure yet, Feb 2026):\nVery easy to fall asleep in his class and less than half of people show up after 3 weeks. Slides are on canvas and vocareum alone deserves 1-2 stars.\n\nReview 4 (Quality: 2.0, Difficulty: 4.0, Grade: C+, Jan 2026):\nI mean the reviews speak for themselves.",
+    "source": "rmp_cs280_professor",
+    "chunk_id": "rmp_cs280_professor::chunk_3",
+    "char_start": 1200,
+    "char_end": 1666
+  },
+  {
+    "text": ", Grade: C+, Jan 2026):\nI mean the reviews speak for themselves.\n\nReview 5 (Quality: 2.0, Difficulty: 4.0, Grade: C+, Jan 2026):\nProfessor Bassel is not a rude person however he may come off that way. He is not the best professor/lecturer and most people don't show up to class. For the midterm and final, if you read the slides you should easily be able to pull off a 60% or higher. His PAs are long and time consuming. Some RAs take a lot of time as well.",
+    "source": "rmp_cs280_professor",
+    "chunk_id": "rmp_cs280_professor::chunk_4",
+    "char_start": 1600,
+    "char_end": 2058
+  },
+  {
+    "text": "and time consuming. Some RAs take a lot of time as well. The class was okay.\nTags: Clear grading criteria, Lecture heavy, Graded by few things\n\nReview 6 (Quality: 4.0, Difficulty: 3.0, Grade: B+, Dec 2025, Would Take Again: Yes):\nGreat sense of humor, vocareum is in my nightmares now.\n\nReview 7 (Quality: 1.0, Difficulty: 5.0, Grade: B, Dec 2025):\nHe'll nah.\nTags: Tough grader, Get ready to read, Lots of homework\n\nReview 8 (Quality: 1.0, Difficulty: 4.0, Dec 2025):\nHis lectures are very monotono",
+    "source": "rmp_cs280_professor",
+    "chunk_id": "rmp_cs280_professor::chunk_5",
+    "char_start": 2000,
+    "char_end": 2500
+  },
+  {
+    "text": "Lots of homework\n\nReview 8 (Quality: 1.0, Difficulty: 4.0, Dec 2025):\nHis lectures are very monotonous and wordy. I sat in the front and tried to take notes and pay attention, but it's not a very good use of your time. Students usually just seem to struggle to study everything on their own. If there is ever another professor for CS280, take them instead. The autograded assignments in Vocareum are also annoying.\n\nReview 9 (Quality: 5.0, Difficulty: 3.0, Grade: Not sure yet, Nov 2025, Would Take A",
+    "source": "rmp_cs280_professor",
+    "chunk_id": "rmp_cs280_professor::chunk_6",
+    "char_start": 2400,
+    "char_end": 2900
+  },
+  {
+    "text": "also annoying.\n\nReview 9 (Quality: 5.0, Difficulty: 3.0, Grade: Not sure yet, Nov 2025, Would Take Again: Yes):\nWhen I first looked at a snippet of code I thought it was just a piece of code, but when I stepped into my first lecture with Professor Arafeh, I gained severe Enlightenment. Every word of his speech emanates some sort of aura. Arafeh has truly made me a better coder and has shown what it's like to be an exceptional teacher.\nTags: Amazing lectures, Inspirational, Hilarious",
+    "source": "rmp_cs280_professor",
+    "chunk_id": "rmp_cs280_professor::chunk_7",
+    "char_start": 2800,
+    "char_end": 3289
+  },
+  {
+    "text": "t's like to be an exceptional teacher.\nTags: Amazing lectures, Inspirational, Hilarious\n\nReview 10 (Quality: 1.0, Difficulty: 4.0, Grade: Not sure yet, Oct 2025):\nYou can skip class, read the slides, and have a better experience than being in class. He says on day 1 that the class is not a programming course, yet every assignment is a programming assignment rather than the actual exam material of programming concepts.",
+    "source": "rmp_cs280_professor",
+    "chunk_id": "rmp_cs280_professor::chunk_8",
+    "char_start": 3200,
+    "char_end": 3622
+  },
+  {
+    "text": "programming concepts. The exams are filled with niche material from the slides, so it's a lot of memorization.\nTags: Get ready to read\n\nSUMMARY:\nProfessor Bassel Arafeh teaches CS 280 (Programming Language Concepts) at NJIT. With an overall rating of 1.8/5 and only 20% of students saying they would take him again, he is one of the lower-rated CS professors at NJIT. The most common complaints are monotonous lectures, low attendance (less than half the class shows up after a few weeks), heavy reli",
+    "source": "rmp_cs280_professor",
+    "chunk_id": "rmp_cs280_professor::chunk_9",
+    "char_start": 3600,
+    "char_end": 4100
+  },
+  {
+    "text": "onotonous lectures, low attendance (less than half the class shows up after a few weeks), heavy reliance on slides, and the Vocareum autograded platform being frustrating. Programming Assignments (PAs) and Study Assignments (SAs) are described as time-consuming. Exams test niche material from slides and are not closely aligned with the study guide. The course itself, CS 280, is not a programming course conceptually but still has heavy programming assignments, which surprises students.",
+    "source": "rmp_cs280_professor",
+    "chunk_id": "rmp_cs280_professor::chunk_10",
+    "char_start": 4000,
+    "char_end": 4490
+  },
+  {
+    "text": "ourse conceptually but still has heavy programming assignments, which surprises students. Some students note that the professor is not a bad person and that reading the slides can yield a passing grade. One student gave a very positive review praising his teaching as inspirational. If another professor is available for CS 280, students strongly recommend taking them instead.",
+    "source": "rmp_cs280_professor",
+    "chunk_id": "rmp_cs280_professor::chunk_11",
+    "char_start": 4400,
+    "char_end": 4900
+  },
+  {
+    "text": "DESCRIPTION: Student reviews for Professor Mohit Dale, who teaches CS 288 (Intensive Programming in Linux) at NJIT\n\nPROFESSOR: Mohit Dale\nDEPARTMENT: Computer Science\nSCHOOL: New Jersey Institute of Technology\nCOURSE: CS 288 - Intensive Programming in Linux\n\nOVERALL RATING: 4.0 / 5\nWOULD TAKE AGAIN: 78%\nLEVEL OF DIFFICULTY: 3.9 / 5\nTOTAL RATINGS: 74\n\nRATING DISTRIBUTION:\n- Awesome (5): 50 ratings\n- Great (4): 6 ratings\n- Good (3): 2 ratings\n- OK (2): 1 rating\n- Awful (1): 15 ratings",
+    "source": "rmp_cs288_professor",
+    "chunk_id": "rmp_cs288_professor::chunk_0",
+    "char_start": 0,
+    "char_end": 489
+  },
+  {
+    "text": "- Great (4): 6 ratings\n- Good (3): 2 ratings\n- OK (2): 1 rating\n- Awful (1): 15 ratings\n\nSTUDENT REVIEWS:\n\nReview 1 (Quality: 5.0, Difficulty: 5.0, Grade: B, May 2026, Attendance: Mandatory, Would Take Again: Yes):\nHighly recommend taking Dale over Itani. He has clear lectures and it feels like he wants to see you succeed. He is always available on Discord to ask questions and gives good prep materials for the midterm and final.\nTags: Amazing lectures, Lots of homework, Caring",
+    "source": "rmp_cs288_professor",
+    "chunk_id": "rmp_cs288_professor::chunk_1",
+    "char_start": 400,
+    "char_end": 883
+  },
+  {
+    "text": "rials for the midterm and final.\nTags: Amazing lectures, Lots of homework, Caring\n\nReview 2 (Quality: 3.0, Difficulty: 5.0, Grade: B, Apr 2026, Attendance: Mandatory, Would Take Again: Yes):\nDale > Itani.\nTags: Tough grader\n\nReview 3 (Quality: 4.0, Difficulty: 4.0, Grade: B+, Apr 2026, Attendance: Mandatory, Would Take Again: Yes):\nLowkey, there's someone review-bombing Dale's RMP with straight-up false info. Honestly, just ask people who've actually taken or are taking his class and you'll get",
+    "source": "rmp_cs288_professor",
+    "chunk_id": "rmp_cs288_professor::chunk_2",
+    "char_start": 800,
+    "char_end": 1300
+  },
+  {
+    "text": "false info. Honestly, just ask people who've actually taken or are taking his class and you'll get the honest review — which is generally positive about both him and his class.\n\nReview 4 (Quality: 4.0, Difficulty: 4.0, Grade: B+, Apr 2026, Attendance: Mandatory, Would Take Again: Yes):\nDale's class isn't bucket graded.\n\nReview 5 (Quality: 1.0, Difficulty: 2.0, Grade: B+, Mar 2026, Attendance: Not Mandatory):\nDale really shouldn't be teaching anything past CS 100.",
+    "source": "rmp_cs288_professor",
+    "chunk_id": "rmp_cs288_professor::chunk_3",
+    "char_start": 1200,
+    "char_end": 1669
+  },
+  {
+    "text": "Mandatory):\nDale really shouldn't be teaching anything past CS 100. It's super obvious he only knows stuff from books and has no real-world experience. CS 288 used to mean something, but now it feels like just another easy, bucket-graded class in the department.\n\nReview 6 (Quality: 4.0, Difficulty: 5.0, Grade: B, Jan 2026, Attendance: Mandatory, Would Take Again: Yes):\nCS 288 is infamous for its disjointed topics and heavy coding proficiency requirement.",
+    "source": "rmp_cs288_professor",
+    "chunk_id": "rmp_cs288_professor::chunk_4",
+    "char_start": 1600,
+    "char_end": 2060
+  },
+  {
+    "text": "disjointed topics and heavy coding proficiency requirement. Please take it with Dale if you want to pass the first time and are willing to put in the work for it. Don't make the mistake of not reading the K&R C book before coming into his class. He's a professor that really cares about students and wants them to do well.\nTags: Lots of homework, Caring, Accessible outside class\n\nReview 7 (Quality: 1.0, Difficulty: 5.0, Grade: Drop/Withdrawal, Jan 2026):\nI don't know what he thinks about himself,",
+    "source": "rmp_cs288_professor",
+    "chunk_id": "rmp_cs288_professor::chunk_5",
+    "char_start": 2000,
+    "char_end": 2500
+  },
+  {
+    "text": "1.0, Difficulty: 5.0, Grade: Drop/Withdrawal, Jan 2026):\nI don't know what he thinks about himself, but he has to understand that if he were a genius, he would be working at Apple, not at NJIT. He makes an easy course extremely difficult, and is destroying so many people's academic life. Tell the dean to remove him from this course and hire a senior teacher with expertise in system programming and OS.\n\nReview 8 (Quality: 1.0, Difficulty: 1.0, Grade: A, Dec 2025):\nThe final test wasn't really har",
+    "source": "rmp_cs288_professor",
+    "chunk_id": "rmp_cs288_professor::chunk_6",
+    "char_start": 2400,
+    "char_end": 2900
+  },
+  {
+    "text": "OS.\n\nReview 8 (Quality: 1.0, Difficulty: 1.0, Grade: A, Dec 2025):\nThe final test wasn't really hard enough to show if we actually learned the material. The multiple-choice questions were too easy, like anyone could guess them, so it felt more like they just didn't want students to complain instead of checking what we actually know. The class looks less serious and makes me wonder if the teaching was effective.\n\nReview 9 (Quality: 5.0, Difficulty: 5.0, Grade: B+, Dec 2025, Attendance: Mandatory",
+    "source": "rmp_cs288_professor",
+    "chunk_id": "rmp_cs288_professor::chunk_7",
+    "char_start": 2800,
+    "char_end": 3300
+  },
+  {
+    "text": "was effective.\n\nReview 9 (Quality: 5.0, Difficulty: 5.0, Grade: B+, Dec 2025, Attendance: Mandatory, Would Take Again: Yes):\nThere is a bunch of doom posters in his RMP, likely due to them getting caught for cheating (there were 30+ people caught a previous semester). Anyways, Dale is an exceptional professor for CS 288. Tests are rough, but it makes sense as the weed-out course. He monitors hard for cheaters, but it's understandable given the history of this course.\nTags: Tough grader, Amazing",
+    "source": "rmp_cs288_professor",
+    "chunk_id": "rmp_cs288_professor::chunk_8",
+    "char_start": 3200,
+    "char_end": 3700
+  },
+  {
+    "text": "for cheaters, but it's understandable given the history of this course.\nTags: Tough grader, Amazing lectures, Caring\n[11 upvotes]\n\nReview 10 (Quality: 5.0, Difficulty: 4.0, Grade: A, Dec 2025, Attendance: Mandatory, Would Take Again: Yes):\nDon't listen to everyone tanking reviews just because they failed and are coping. He is accessible outside of class through office hours, Discord, and email. His lecture coding examples and the homeworks are highly reflective of the exams.",
+    "source": "rmp_cs288_professor",
+    "chunk_id": "rmp_cs288_professor::chunk_9",
+    "char_start": 3600,
+    "char_end": 4081
+  },
+  {
+    "text": "is lecture coding examples and the homeworks are highly reflective of the exams. Don't slack off (read the materials too) and you will pass. He actively listens to feedback on pace and depth.\nTags: Tough grader, Participation matters, Accessible outside class\n[11 upvotes]\n\nSUMMARY:\nProfessor Mohit Dale teaches CS 288 (Intensive Programming in Linux) at NJIT and is one of the more positively reviewed CS professors. With an overall rating of 4.0/5 and 78% of students saying they would take him aga",
+    "source": "rmp_cs288_professor",
+    "chunk_id": "rmp_cs288_professor::chunk_10",
+    "char_start": 4000,
+    "char_end": 4500
+  },
+  {
+    "text": "ed CS professors. With an overall rating of 4.0/5 and 78% of students saying they would take him again, he scores significantly higher than other CS professors at NJIT. Multiple students explicitly recommend taking Dale over Itani for CS 288. His key strengths include clear lectures, accessibility on Discord for questions, caring attitude toward student success, and homework that directly reflects exam content. CS 288 is described as a weed-out course with disjointed topics and heavy coding requ",
+    "source": "rmp_cs288_professor",
+    "chunk_id": "rmp_cs288_professor::chunk_11",
+    "char_start": 4400,
+    "char_end": 4900
+  },
+  {
+    "text": "exam content. CS 288 is described as a weed-out course with disjointed topics and heavy coding requirements — reading the K&R C book before the course is strongly advised. Some negative reviews allege the course has become too easy or that Dale lacks real-world experience, but several students suggest these are review-bombed by students who were caught cheating (reportedly 30+ students caught cheating in a previous semester). Attendance is listed as mandatory.",
+    "source": "rmp_cs288_professor",
+    "chunk_id": "rmp_cs288_professor::chunk_12",
+    "char_start": 4800,
+    "char_end": 5266
+  },
+  {
+    "text": "ating in a previous semester). Attendance is listed as mandatory. Students who put in effort and read the materials consistently report passing.",
+    "source": "rmp_cs288_professor",
+    "chunk_id": "rmp_cs288_professor::chunk_13",
+    "char_start": 5200,
+    "char_end": 5700
+  },
+  {
+    "text": "DESCRIPTION: Student reviews for Professor Kamlesh Naik, who teaches CS 332 (Principles of Operating Systems) at NJIT\n\nPROFESSOR: Kamlesh Naik\nDEPARTMENT: Computer Science\nSCHOOL: New Jersey Institute of Technology\nCOURSE: CS 332 - Principles of Operating Systems (also teaches CS 241)\n\nOVERALL RATING: 3.8 / 5\nWOULD TAKE AGAIN: 69%\nLEVEL OF DIFFICULTY: 3.4 / 5\nTOTAL RATINGS: 82\n\nRATING DISTRIBUTION:\n- Awesome (5): 48 ratings\n- Great (4): 9 ratings\n- Good (3): 4 ratings\n- OK (2): 3 ratings\n- Awful",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_0",
+    "char_start": 0,
+    "char_end": 500
+  },
+  {
+    "text": ":\n- Awesome (5): 48 ratings\n- Great (4): 9 ratings\n- Good (3): 4 ratings\n- OK (2): 3 ratings\n- Awful (1): 18 ratings\n\nSTUDENT REVIEWS:\n\nReview 1 (Quality: 5.0, Difficulty: 3.0, Jan 2026, Would Take Again: Yes, Course: CS 241):\nI took Professor Naik for CS 241. He has very good lectures and explains a lot of the material very well. His quizzes are very easy however his homeworks and exams are a lot more difficult. Some homeworks may take a few hours to complete.",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_1",
+    "char_start": 400,
+    "char_end": 866
+  },
+  {
+    "text": "more difficult. Some homeworks may take a few hours to complete. He also does not hand out much review material other than problems in class. Watch out for the exams.\nTags: Tough grader, Amazing lectures, Lecture heavy\n\nReview 2 (Quality: 5.0, Difficulty: 3.0, Grade: A, Jan 2026, Attendance: Mandatory, Would Take Again: Yes, Course: CS 241):\nI took CS 241 with him, and he is really good. His explanations are very clear, he does his best to help us understand the material well and his class is n",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_2",
+    "char_start": 800,
+    "char_end": 1300
+  },
+  {
+    "text": "anations are very clear, he does his best to help us understand the material well and his class is not hard.\nTags: Clear grading criteria, Respected, Accessible outside class\n\nReview 3 (Quality: 1.0, Difficulty: 5.0, Grade: C, Jan 2026):\nSave your GPA, don't take his class. Quizzes and exams are like extremely hard riddles, the final put something he never covered before worth 9 out of 80 points. He loves questions where if you mess up a small thing you will get the entire problem wrong with no",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_3",
+    "char_start": 1200,
+    "char_end": 1700
+  },
+  {
+    "text": "He loves questions where if you mess up a small thing you will get the entire problem wrong with no or little partial credit. The most inflexible professor I've ever had. He is funny though.\nTags: Tough grader, Hilarious, Graded by few things\n\nReview 4 (Quality: 1.0, Difficulty: 4.0, Dec 2025, Would Take Again: Yes):\nReally tough grader!!!\nTags: Tough grader\n\nReview 5 (Quality: 2.0, Difficulty: 4.0, Grade: B, Dec 2025, Would Take Again: Yes):\nMidterm and Final together are worth 35% each.",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_4",
+    "char_start": 1600,
+    "char_end": 2094
+  },
+  {
+    "text": "0, Grade: B, Dec 2025, Would Take Again: Yes):\nMidterm and Final together are worth 35% each. He doesn't speak proper English and his exams are really wordy. The finals he throws curve balls, stuff not done or mentioned in class.\nTags: Tough grader, Amazing lectures, Test heavy\n\nReview 6 (Quality: 1.0, Difficulty: 5.0, Grade: C-, Dec 2025):\nBAD grader and likes to add in test questions that have not been gone over or reviewed. I don't recommend taking this course.",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_5",
+    "char_start": 2000,
+    "char_end": 2469
+  },
+  {
+    "text": "ot been gone over or reviewed. I don't recommend taking this course. If you do then good luck.\nTags: Tough grader\n\nReview 7 (Quality: 1.0, Difficulty: 4.0, Grade: B-, Dec 2025):\nTough!!\nTags: Graded by few things\n\nReview 8 (Quality: 1.0, Difficulty: 3.0, Grade: C+, Dec 2025):\nHe comes across as friendly at first, but the grading was very strict. Policies were applied rigidly, with little flexibility for mistakes. Once points were lost, it was difficult to recover.",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_6",
+    "char_start": 2400,
+    "char_end": 2869
+  },
+  {
+    "text": "ty for mistakes. Once points were lost, it was difficult to recover. Don't take courses from him!\nTags: Tough grader, Lecture heavy, Test heavy\n\nReview 9 (Quality: 5.0, Difficulty: 3.0, Grade: C+, Dec 2025, Would Take Again: Yes):\nBy far the best professor at NJIT. He is very funny, caring and is always willing to help his students. He is a loving man and makes all concepts super easy to understand. If you have the option to take his class, take him you will be glad you did.\nTags: Hilarious, Lec",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_7",
+    "char_start": 2800,
+    "char_end": 3300
+  },
+  {
+    "text": "d. If you have the option to take his class, take him you will be glad you did.\nTags: Hilarious, Lecture heavy, Graded by few things\n\nReview 10 (Quality: 3.0, Difficulty: 3.0, Grade: D, Dec 2025):\nProfessor Naik is a good lecturer and goes over all problems. However he is a harsh grader; if you make one mistake, the rest of the question is marked wrong, takes off many points. He also has somehow voided exceptions from the dean of students, and makes a point to mention that none of his quizzes or",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_8",
+    "char_start": 3200,
+    "char_end": 3700
+  },
+  {
+    "text": "oided exceptions from the dean of students, and makes a point to mention that none of his quizzes or homework can be made up even if you're sick or have an emergency.\nTags: Tough grader, Clear grading criteria, Test heavy\n\nReview 11 (Quality: 5.0, Difficulty: 3.0, Grade: C+, Dec 2025, Would Take Again: Yes):\nOverall one of my favorite professors at NJIT. He does a great job at teaching the material, the only downside is that he doesn't post any of the material on Canvas which makes it difficult",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_9",
+    "char_start": 3600,
+    "char_end": 4100
+  },
+  {
+    "text": "l, the only downside is that he doesn't post any of the material on Canvas which makes it difficult to catch up if you miss a lecture.\nTags: Tough grader, Amazing lectures, Hilarious\n\nReview 12 (Quality: 5.0, Difficulty: 5.0, Grade: B-, May 2025, Attendance: Mandatory, Would Take Again: Yes):\nProf. Naik is an excellent professor for this class. It's a hard class, but he organizes the material incredibly well. He's incredibly caring for his students and although he may be intimidating at first, e",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_10",
+    "char_start": 4000,
+    "char_end": 4500
+  },
+  {
+    "text": "edibly well. He's incredibly caring for his students and although he may be intimidating at first, email him or go to his office hours if you have questions and you'll find he's a huge help. The exams, however, could REALLY be toned down a lot.\nTags: Caring, Graded by few things, Accessible outside class\n\nReview 13 (Quality: 5.0, Difficulty: 2.0, Grade: A+, May 2025, Would Take Again: Yes):\nGreat professor and teacher, breaks down concepts VERY clearly which, in turn, makes the class really easy",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_11",
+    "char_start": 4400,
+    "char_end": 4900
+  },
+  {
+    "text": "professor and teacher, breaks down concepts VERY clearly which, in turn, makes the class really easy. His exam questions tend to be wordy, but they are very much doable as long as you read through them patiently and understand the concepts in class. He also gives you the exact layout of the exam (number of questions from each topic) beforehand.\n\nReview 14 (Quality: 4.0, Difficulty: 4.0, Grade: Not sure yet, May 2025, Would Take Again: Yes):\nProf. Naik is an amazing teacher.",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_12",
+    "char_start": 4800,
+    "char_end": 5279
+  },
+  {
+    "text": "sure yet, May 2025, Would Take Again: Yes):\nProf. Naik is an amazing teacher. I recommend taking him over any other prof for CS 332. I was doing really well in his class and his class was the only one I looked forward to. I really have great respect for him but it deeply saddens me that because of negative comments in the past, he is much more strict and difficult with exams (final was a pain).\nTags: Tough grader, Amazing lectures, Lecture heavy",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_13",
+    "char_start": 5200,
+    "char_end": 5652
+  },
+  {
+    "text": "ags: Tough grader, Amazing lectures, Lecture heavy\n\nReview 15 (Quality: 5.0, Difficulty: 4.0, Grade: Not sure yet, May 2025, Would Take Again: Yes):\nNaik is amazing at explaining concepts and I loved having him as a teacher. Problem is the midterm and final which basically make up 70% of your final grade have problems that are much harder than anything done in class or on quizzes. But given that, he does make it basically impossible to fail the class if you do the work and try.\nTags: Tough grade",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_14",
+    "char_start": 5600,
+    "char_end": 6100
+  },
+  {
+    "text": "he does make it basically impossible to fail the class if you do the work and try.\nTags: Tough grader, Amazing lectures, Test heavy\n\nReview 16 (Quality: 3.0, Difficulty: 4.0, Grade: B+, May 2025):\nHe is a great teacher with an incredible and understandable teaching style. But his tests are insanely long and unnecessarily confusing. No time to check your work. If you don't spend every single second of the exam working, you won't finish.",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_15",
+    "char_start": 6000,
+    "char_end": 6440
+  },
+  {
+    "text": "of the exam working, you won't finish. He adds random twists on problems that make them twice as confusing as anything he's done in class.\nTags: Test heavy\n\nReview 17 (Quality: 1.0, Difficulty: 5.0, Grade: B+, May 2025):\nThe in class material isn't hard but he puts some really difficult stuff on the final and midterm not related to class at all even if he gives you the blueprint. I don't know about the other profs for CS 332 either. Just good luck — NJIT is rough.",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_16",
+    "char_start": 6400,
+    "char_end": 6870
+  },
+  {
+    "text": "ut the other profs for CS 332 either. Just good luck — NJIT is rough. You can definitely get an A but he just gets you over with the final.\nTags: Tough grader, Hilarious, Test heavy\n\nReview 18 (Quality: 5.0, Difficulty: 3.0, Grade: B+, May 2025, Would Take Again: Yes):\nKamlesh is a funny guy, very verbose. Great prof.\nTags: Clear grading criteria, Hilarious, Lecture heavy\n\nReview 19 (Quality: 5.0, Difficulty: 2.0, Grade: B+, Oct 2024, Would Take Again: Yes):\nNo BS, no PowerPoints.",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_17",
+    "char_start": 6800,
+    "char_end": 7286
+  },
+  {
+    "text": "Difficulty: 2.0, Grade: B+, Oct 2024, Would Take Again: Yes):\nNo BS, no PowerPoints. He will teach you everything you need to do well in the course.\nTags: Inspirational, Caring, Respected\n\nReview 20 (Quality: 4.0, Difficulty: 1.0, Grade: A, Oct 2024, Would Take Again: Yes):\nLowkey a zestfest, good professor but wastes a lot of time saying \"are you getting it\" when it's a simple concept. Class is a drag he moves very slow.\nTags: Clear grading criteria, Caring, Accessible outside class",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_18",
+    "char_start": 7200,
+    "char_end": 7691
+  },
+  {
+    "text": "a drag he moves very slow.\nTags: Clear grading criteria, Caring, Accessible outside class\n\nSUMMARY:\nProfessor Kamlesh Naik teaches CS 332 (Principles of Operating Systems) and CS 241 (Foundations of Computer Science I) at NJIT. His overall rating is 3.8/5 with 69% of students willing to take him again. He is one of the more popular CS professors when it comes to lecture quality — many students praise his clear explanations, humor (described as \"very funny\"), and caring attitude.",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_19",
+    "char_start": 7600,
+    "char_end": 8084
+  },
+  {
+    "text": "ise his clear explanations, humor (described as \"very funny\"), and caring attitude. The main complaint is his exams: he is a harsh grader who gives zero partial credit for errors, adds curveball questions that weren't covered in class, and produces exams that are too long to finish comfortably. He does not post lecture materials on Canvas, making attendance important. He also reportedly cannot make up quizzes or homework under any circumstances, even with dean exceptions.",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_20",
+    "char_start": 8000,
+    "char_end": 8477
+  },
+  {
+    "text": "e up quizzes or homework under any circumstances, even with dean exceptions. Students strongly recommend going to office hours. The course CS 332 itself is described as a hard class with well-organized material. Students who put in effort and ask questions consistently report positive outcomes.",
+    "source": "rmp_cs332_professor",
+    "chunk_id": "rmp_cs332_professor::chunk_21",
+    "char_start": 8400,
+    "char_end": 8900
+  },
+  {
+    "text": "DESCRIPTION: Student reviews for Professor Abdul-Rahman Itani, who teaches CS 350 (Intro to Computer Systems) at NJIT. Also includes reviews for Professor Andrew Sohn who also teaches CS 350.\n\nPROFESSOR: Abdul-Rahman Itani\nDEPARTMENT: Computer Science\nSCHOOL: New Jersey Institute of Technology\nCOURSES: CS 350 - Intro to Computer Systems, CS 288 - Intensive Programming in Linux, CS 100\n\nOVERALL RATING: 4.0 / 5\nWOULD TAKE AGAIN: 71%\nLEVEL OF DIFFICULTY: 4.2 / 5\nTOTAL RATINGS: 138",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_0",
+    "char_start": 0,
+    "char_end": 484
+  },
+  {
+    "text": "ING: 4.0 / 5\nWOULD TAKE AGAIN: 71%\nLEVEL OF DIFFICULTY: 4.2 / 5\nTOTAL RATINGS: 138\n\nRATING DISTRIBUTION:\n- Awesome (5): 82 ratings\n- Great (4): 18 ratings\n- Good (3): 11 ratings\n- OK (2): 7 ratings\n- Awful (1): 20 ratings\n\nITANI - STUDENT REVIEWS (CS 350):\n\nReview 1 (Quality: 1.0, Difficulty: 5.0, Grade: C, May 2026, Attendance: Mandatory):\nThis professor gives a lot of details during lecture. The exams have the same difficulty as the textbook problems.",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_1",
+    "char_start": 400,
+    "char_end": 858
+  },
+  {
+    "text": "exams have the same difficulty as the textbook problems. Itani likes to tutor his students and he explicitly says that he likes to do so in his office hours. Make sure to take him if you want to pass. Itani fully respects all sorts of questions asked during lecture.\nNote: This review was marked with low quality but the content reads as positive — may be a misclick.\nTags: Tough grader, Get ready to read, Test heavy\n[1 upvote, 4 downvotes — suggests community felt the quality rating was inaccurat",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_2",
+    "char_start": 800,
+    "char_end": 1300
+  },
+  {
+    "text": "o read, Test heavy\n[1 upvote, 4 downvotes — suggests community felt the quality rating was inaccurate]\n\nReview 2 (Quality: 5.0, Difficulty: 4.0, Grade: D, May 2026, Attendance: Mandatory, Would Take Again: Yes):\nDr. Itani is one of the best professors I've had. The class is challenging but he pushes you to genuinely grow. Lectures are clear and engaging and build real understanding, not just memorization. You need a 45 to pass, so stay on top of it. Read the book and go to his office hours.",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_3",
+    "char_start": 1200,
+    "char_end": 1696
+  },
+  {
+    "text": "ization. You need a 45 to pass, so stay on top of it. Read the book and go to his office hours. It's worth every bit of effort.\nTags: Amazing lectures, Gives good feedback, Accessible outside class\n\nReview 3 (Quality: 5.0, Difficulty: 4.0, Grade: C, May 2026, Attendance: Mandatory, Would Take Again: Yes):\nItani is one of the best CS profs. Lectures are dense and engaging, but not always very deep, so you must read the book for the nitty gritty details and do the chapter problems if you want to p",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_4",
+    "char_start": 1600,
+    "char_end": 2100
+  },
+  {
+    "text": "so you must read the book for the nitty gritty details and do the chapter problems if you want to pass. Don't bomb Exam 1, stay above average on exams 2 and 3, and follow his expectations and you won't see his bad side. A D is a 45, it can't get easier.\nTags: Get ready to read, Amazing lectures, Hilarious\n\nReview 4 (Quality: 3.0, Difficulty: 5.0, Grade: Not sure yet, Apr 2026, Attendance: Mandatory):\nHe is clearly intelligent and knowledgeable about his field.",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_5",
+    "char_start": 2000,
+    "char_end": 2466
+  },
+  {
+    "text": "ry):\nHe is clearly intelligent and knowledgeable about his field. Good lecturer, but not a good professor. Sets very high expectations for his students, as reflected by his exams. Exams are designed assuming you're practically a master at each topic. You have to dedicate a TON of time to this class or you simply won't keep up. Expect the worst.\nTags: Get ready to read, Test heavy, Graded by few things\n\nReview 5 (Quality: 5.0, Difficulty: 4.0, Grade: Not sure yet, Apr 2026, Attendance: Mandatory,",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_6",
+    "char_start": 2400,
+    "char_end": 2900
+  },
+  {
+    "text": "ings\n\nReview 5 (Quality: 5.0, Difficulty: 4.0, Grade: Not sure yet, Apr 2026, Attendance: Mandatory, Would Take Again: Yes):\nDr. Itani is exceptional. He exhibits high passion, approachability, and the ability to make difficult material understandable.\nTags: Inspirational, Caring, Respected\n[12 upvotes]\n\nReview 6 (Quality: 4.0, Difficulty: 5.0, Grade: Not sure yet, Apr 2026, Attendance: Mandatory, Would Take Again: Yes):\nGood professor, if you want to learn and put in effort.\n[13 upvotes]",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_7",
+    "char_start": 2800,
+    "char_end": 3295
+  },
+  {
+    "text": "Would Take Again: Yes):\nGood professor, if you want to learn and put in effort.\n[13 upvotes]\n\nReview 7 (Quality: 5.0, Difficulty: 2.0, Grade: Not sure yet, Apr 2026, Attendance: Mandatory, Would Take Again: Yes):\nHe is one of the best professors at NJIT. Class is challenging and he wants students to succeed by putting effort into the course. Take him. You won't regret it.\nTags: Get ready to read\n[15 upvotes]\n\nReview 8 (Quality: 5.0, Difficulty: 2.0, Grade: Not sure yet, Apr 2026, Attendance: Ma",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_8",
+    "char_start": 3200,
+    "char_end": 3700
+  },
+  {
+    "text": "[15 upvotes]\n\nReview 8 (Quality: 5.0, Difficulty: 2.0, Grade: Not sure yet, Apr 2026, Attendance: Mandatory, Would Take Again: Yes):\nHonestly and wholeheartedly, Itani is the best professor to walk the grounds at NJIT. Both of my CS 350 midterm grades were 80+, and I barely even opened the textbook. All I do is listen carefully to his excellent lectures. Period.\nTags: Amazing lectures, Hilarious\n[19 upvotes]\n\nReview 9 (Quality: 1.0, Difficulty: 5.0, Grade: Drop/Withdrawal, Apr 2026, Attendance:",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_9",
+    "char_start": 3600,
+    "char_end": 4100
+  },
+  {
+    "text": "19 upvotes]\n\nReview 9 (Quality: 1.0, Difficulty: 5.0, Grade: Drop/Withdrawal, Apr 2026, Attendance: Mandatory):\nThe professor explains the material clearly and demonstrates strong knowledge of the subject. However, the exams are extremely challenging and feel disproportionately difficult compared to the coursework and lectures. The grading policies are also quite strict, which can make the class feel stressful.\nTags: Tough grader\n[3 upvotes, 19 downvotes — community largely disagreed with this n",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_10",
+    "char_start": 4000,
+    "char_end": 4500
+  },
+  {
+    "text": "eel stressful.\nTags: Tough grader\n[3 upvotes, 19 downvotes — community largely disagreed with this negative review]\n\nReview 10 (Quality: 1.0, Difficulty: 4.0, Grade: C+, Mar 2026, Attendance: Mandatory):\nOut of kindness, I think he should go to another profession. He got so angry in his office hours, that he told me he wasn't my private tutor, told me to drop out of school, and threatened me when I asked him to help me understand why my practice answer was wrong.",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_11",
+    "char_start": 4400,
+    "char_end": 4868
+  },
+  {
+    "text": "I asked him to help me understand why my practice answer was wrong. I strongly recommend students don't take him for any class.\nTags: Tough grader, Lecture heavy, Graded by few things\n[6 upvotes, 18 downvotes — community largely disagreed]\n\nReview 11 (Quality: 1.0, Difficulty: 5.0, Grade: A, Feb 2026):\nWhat's the point of attending lecture if he recommends reading the textbook anyways. So far all the lectures I've attended have not been helpful at all. Even when I read ahead of time.",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_12",
+    "char_start": 4800,
+    "char_end": 5289
+  },
+  {
+    "text": "the lectures I've attended have not been helpful at all. Even when I read ahead of time. There's no HW or anything similar to help you test yourself besides the outdated textbook questions that some of their solutions are wrong. Avoid at all costs.\n[4 upvotes, 20 downvotes — community strongly disagreed]\n\nReview 12 (Quality: 3.0, Difficulty: 5.0, Grade: Not sure yet, Feb 2026, Attendance: Mandatory):\nYes, he is a great lecturer, but how he structures this course it's just you reading the textboo",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_13",
+    "char_start": 5200,
+    "char_end": 5700
+  },
+  {
+    "text": "y):\nYes, he is a great lecturer, but how he structures this course it's just you reading the textbook. I find his lectures to be completely unnecessary and even he himself emphasizes reviewing the textbook ahead before class. Exams are hard but all within reason. Attendance is mandatory and can only hurt your grade. Try someone else for this class.\nTags: Test heavy\n\nReview 13 (Quality: 4.0, Difficulty: 4.0, Grade: D, Jan 2026, Attendance: Mandatory, Would Take Again: Yes):\nThe way to pass this c",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_14",
+    "char_start": 5600,
+    "char_end": 6100
+  },
+  {
+    "text": "ulty: 4.0, Grade: D, Jan 2026, Attendance: Mandatory, Would Take Again: Yes):\nThe way to pass this class is to read the textbook ahead of lecture, listen during the lecture, and read the textbook again. You are graded on a few things, so participation and attendance matter a LOT. The expertise from the professor complements the difficulty of this class. Overall it has been a great challenge passing the course. Don't give up!\nTags: Get ready to read, Participation matters, Graded by few things\n[1",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_15",
+    "char_start": 6000,
+    "char_end": 6500
+  },
+  {
+    "text": "g the course. Don't give up!\nTags: Get ready to read, Participation matters, Graded by few things\n[14 upvotes]\n\nReview 14 (Quality: 4.0, Difficulty: 5.0, Grade: C+, Dec 2025, Attendance: Mandatory):\nLike, don't get me wrong he's a great professor and compared to every other CS professor at NJIT, he clears them. My only issue with him is that he makes the exams way harder than they really have to be. No idea why he does this, it's like he wants to make us miserable and fail his class.",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_16",
+    "char_start": 6400,
+    "char_end": 6889
+  },
+  {
+    "text": "e. No idea why he does this, it's like he wants to make us miserable and fail his class. I'd give him an 8.1/10.\nTags: Tough grader, Amazing lectures, Respected\n\nITANI SUMMARY:\nProfessor Abdul-Rahman Itani teaches CS 350 (Intro to Computer Systems) and CS 288 at NJIT and has an overall rating of 4.0/5. He is one of the highest-rated CS professors at NJIT and many students call him the best CS professor at the school. He is known for passionate, engaging lectures that build real understanding.",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_17",
+    "char_start": 6800,
+    "char_end": 7298
+  },
+  {
+    "text": "essor at the school. He is known for passionate, engaging lectures that build real understanding. The passing threshold in CS 350 is 45 — a D is considered passing. The strategy to pass is to read the textbook before lecture, attend lecture, and read the textbook again after. Attendance is mandatory. The exams are extremely challenging, often harder than the in-class material. Negative reviews (which receive many community downvotes) allege poor office hour behavior, but the majority of students",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_18",
+    "char_start": 7200,
+    "char_end": 7700
+  },
+  {
+    "text": "ich receive many community downvotes) allege poor office hour behavior, but the majority of students report positive experiences when they put in effort. Compared to Sohn for CS 350, opinions vary — some prefer Itani for his engaging lectures, others prefer Sohn for his structured practice exams.\n\nPROFESSOR: Andrew Sohn\nDEPARTMENT: Computer Science\nSCHOOL: New Jersey Institute of Technology\nCOURSES: CS 350 - Intro to Computer Systems, CS 288 - Intensive Programming in Linux",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_19",
+    "char_start": 7600,
+    "char_end": 8080
+  },
+  {
+    "text": "S: CS 350 - Intro to Computer Systems, CS 288 - Intensive Programming in Linux\n\nOVERALL RATING: 3.5 / 5\nWOULD TAKE AGAIN: 67%\nLEVEL OF DIFFICULTY: 4.1 / 5\nTOTAL RATINGS: 84\n\nRATING DISTRIBUTION:\n- Awesome (5): 32 ratings\n- Great (4): 18 ratings\n- Good (3): 15 ratings\n- OK (2): 5 ratings\n- Awful (1): 14 ratings\n\nSOHN - STUDENT REVIEWS (CS 350):\n\nReview 1 (Quality: 1.0, Difficulty: 5.0, Grade: F, Mar 2026, Attendance: Mandatory):\nI failed this class with Sohn and thought it was because I wasn't sm",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_20",
+    "char_start": 8000,
+    "char_end": 8500
+  },
+  {
+    "text": "r 2026, Attendance: Mandatory):\nI failed this class with Sohn and thought it was because I wasn't smart enough. Retaking it now with another prof made me realize it wasn't me at all. His teaching is super unclear and barely goes into anything. If you actually want to learn the material, avoid this professor.\nTags: Get ready to read, Lots of homework, Test heavy\n\nReview 2 (Quality: 4.0, Difficulty: 5.0, Grade: D, Feb 2026, Would Take Again: Yes):\nHe's hard.",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_21",
+    "char_start": 8400,
+    "char_end": 8861
+  },
+  {
+    "text": "5.0, Grade: D, Feb 2026, Would Take Again: Yes):\nHe's hard. I knew people graduating that made this their only class and didn't know if they passed till grades for the final dropped. You could have a 69 in the class and still fail since it's bucket-graded. I did well on the first exam and poor on the last exam and had a 67 at first and failed.\nTags: Tough grader, Respected, Accessible outside class\n\nReview 3 (Quality: 5.0, Difficulty: 4.0, Grade: A, Dec 2025, Attendance: Mandatory, Would Take A",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_22",
+    "char_start": 8800,
+    "char_end": 9300
+  },
+  {
+    "text": "ss\n\nReview 3 (Quality: 5.0, Difficulty: 4.0, Grade: A, Dec 2025, Attendance: Mandatory, Would Take Again: Yes):\nI took Prof. Sohn Fall 2025, I finished with an A. One thing that stuck with me was how Prof. Sohn always smiles and invites questions. I don't know if he is teaching CS 350 next semester, if he is I highly recommend his class.\nTags: Participation matters, Lots of homework\n\nReview 4 (Quality: 3.0, Difficulty: 3.0, Grade: B, Dec 2025, Attendance: Mandatory, Would Take Again: Yes):\nSohn",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_23",
+    "char_start": 9200,
+    "char_end": 9700
+  },
+  {
+    "text": "lity: 3.0, Difficulty: 3.0, Grade: B, Dec 2025, Attendance: Mandatory, Would Take Again: Yes):\nSohn is a nice guy but could definitely improve on his lecturing skills. He does have lock-in moments where he can explain a topic with ease, but there are very few of those moments. The class is bucket graded which kinda sucks because you can do upper quartile on the 2 midterms and just above average on the final and get a B. Homeworks are okay.\nTags: Get ready to read, Test heavy",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_24",
+    "char_start": 9600,
+    "char_end": 10081
+  },
+  {
+    "text": "the final and get a B. Homeworks are okay.\nTags: Get ready to read, Test heavy\n\nReview 5 (Quality: 5.0, Difficulty: 3.0, Grade: Not sure yet, Dec 2025, Attendance: Mandatory, Would Take Again: Yes):\nDr. Sohn is an amazing professor all in all. I would highly recommend him as the best option for CS 350 at NJIT. His lectures are very helpful, in depth, and useful for his exams. He is also very considerate and kindhearted. His TAs were of great help.",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_25",
+    "char_start": 10000,
+    "char_end": 10453
+  },
+  {
+    "text": "iderate and kindhearted. His TAs were of great help. He has a funny way of saying zero as zippo which made me laugh along.\n\nReview 6 (Quality: 1.0, Difficulty: 5.0, Grade: Not sure yet, Sep 2025):\nI'm sure the professor knows his stuff, but his lectures are about as clear as mud. His accent is so heavy that two weeks into the semester, I'm still completely lost. Honestly, without the textbook, this course would be a total bust.\nTags: Lecture heavy\n[8 upvotes]",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_26",
+    "char_start": 10400,
+    "char_end": 10865
+  },
+  {
+    "text": "s course would be a total bust.\nTags: Lecture heavy\n[8 upvotes]\n\nReview 7 (Quality: 1.0, Difficulty: 5.0, Grade: D, Sep 2025):\nChapters 1 through 3 were clear, and easy to follow. Then Chapter 4 hit, and everything spiraled into chaos. By the time the final rolled around, I was completely lost. The practice exams showcase only 30% of what's really on the exam. Otherwise you're stuck reading a textbook trying to learn everything on your own.\nTags: Get ready to read\n[9 upvotes]",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_27",
+    "char_start": 10800,
+    "char_end": 11282
+  },
+  {
+    "text": "book trying to learn everything on your own.\nTags: Get ready to read\n[9 upvotes]\n\nReview 8 (Quality: 4.0, Difficulty: 5.0, Grade: B+, May 2025, Would Take Again: Yes):\nFrom the get go, it's obvious that Sohn LOVES this material, and is passionate about teaching it to eager students. Course itself can be pretty confusing but if you practice and do the HW it's manageable. Exams 1 and 2 are decent, but the Final is a menace.",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_28",
+    "char_start": 11200,
+    "char_end": 11626
+  },
+  {
+    "text": "ut the Final is a menace. If he didn't teach only the hardest CS classes in the school, I would love to have him again.\nTags: Get ready to read, Respected, Test heavy\n\nReview 9 (Quality: 2.0, Difficulty: 4.0, Grade: Not sure yet, May 2025, Attendance: Mandatory):\nIf you're deciding between Sohn and Itani for CS 350, definitely take Sohn. He provides practice exams, and the exams contain material mostly from the HW's and past exams.",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_29",
+    "char_start": 11600,
+    "char_end": 12037
+  },
+  {
+    "text": "ostly from the HW's and past exams.\n\nReview 10 (Quality: 1.0, Difficulty: 5.0, Grade: A, Mar 2025, Attendance: Mandatory, Course: CS 288):\nJSON? More like JSOHN. Also, be ready to know BASH scripting very well before taking this class. He also loves HTMLTidy and TagSoup.\nTags: Lots of homework, Lecture heavy\n[5 upvotes]\n\nReview 11 (Quality: 3.0, Difficulty: 5.0, Grade: Audit, Dec 2024, Attendance: Mandatory, Would Take Again: Yes):\nGreat person, teaching style isn't the best and the grading crit",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_30",
+    "char_start": 12000,
+    "char_end": 12500
+  },
+  {
+    "text": "Mandatory, Would Take Again: Yes):\nGreat person, teaching style isn't the best and the grading criteria is bucket graded — you don't know if you passed until the final. Just got done with his final exam, everyone bombed it. The practice exams showcase only 30% of what's really on the exam, otherwise you're stuck reading a textbook trying to learn everything on your own.\nTags: Get ready to read, Lecture heavy\n\nReview 12 (Quality: 5.0, Difficulty: 4.0, Grade: A, May 2024, Attendance: Mandatory, W",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_31",
+    "char_start": 12400,
+    "char_end": 12900
+  },
+  {
+    "text": "ecture heavy\n\nReview 12 (Quality: 5.0, Difficulty: 4.0, Grade: A, May 2024, Attendance: Mandatory, Would Take Again: Yes):\nProfessor Sohn always comes into class with a smile. His lectures are engaging and he does a great job of illustrating difficult concepts. If you did the homework and understood them, you will do well on the exams since the exam questions are VERY similar to the homework and practice exams. He gives you everything you need to do well in the class.\nTags: Get ready to read, Am",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_32",
+    "char_start": 12800,
+    "char_end": 13300
+  },
+  {
+    "text": "ractice exams. He gives you everything you need to do well in the class.\nTags: Get ready to read, Amazing lectures, Caring\n\nReview 13 (Quality: 1.0, Difficulty: 5.0, Grade: C-, Dec 2023, Attendance: Mandatory):\nHonestly the worst professor I've had so far. It's not the fact that he is tough or that he gives out difficult work for a difficult class, it's the fact that he consistently throughout the semester puts down students for the lack of knowledge instead of ensuring that we are prepared for",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_33",
+    "char_start": 13200,
+    "char_end": 13700
+  },
+  {
+    "text": "semester puts down students for the lack of knowledge instead of ensuring that we are prepared for what we need in the real world.\nTags: Tough grader, Get ready to read, Lots of homework\n\nReview 14 (Quality: 3.0, Difficulty: 5.0, Grade: Not sure yet, Dec 2023, Would Take Again: Yes):\nFrom the get go, Professor Sohn tells you that doing the homework by yourself should net you, at minimum, a B. Can be difficult to understand at times, but does make the class as interesting as possible.",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_34",
+    "char_start": 13600,
+    "char_end": 14090
+  },
+  {
+    "text": "be difficult to understand at times, but does make the class as interesting as possible. Do the homework, go to his or the TAs' office hours, and you should at least not fail the course.\nTags: Respected, Lecture heavy\n\nSOHN SUMMARY:\nProfessor Andrew Sohn teaches CS 350 (Intro to Computer Systems) and CS 288 at NJIT with an overall rating of 3.5/5. He is known for being passionate about the material and always coming to class smiling.",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_35",
+    "char_start": 14000,
+    "char_end": 14439
+  },
+  {
+    "text": "al and always coming to class smiling. CS 350 with Sohn is bucket-graded, meaning you don't know if you passed until the final grade drops — a student with a 67 may fail. The final exam is widely described as extremely difficult. Students who do the homework thoroughly and attend office hours report doing well, since exam questions are similar to HW and practice exams. Some students prefer Sohn over Itani because he provides practice exams; others find his accent difficult to follow and lectures",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_36",
+    "char_start": 14400,
+    "char_end": 14900
+  },
+  {
+    "text": "er Itani because he provides practice exams; others find his accent difficult to follow and lectures unclear. The course itself is described as one of the hardest CS courses at NJIT regardless of professor.\n\nCS 350 PROFESSOR COMPARISON (Itani vs. Sohn):\n- Itani: Higher overall rating (4.0 vs 3.5), more passionate and engaging lectures, passing threshold is 45/100, attendance mandatory, exams based on textbook, reading book before lecture is essential.\n- Sohn: Provides practice exams, exams based",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_37",
+    "char_start": 14800,
+    "char_end": 15300
+  },
+  {
+    "text": "on textbook, reading book before lecture is essential.\n- Sohn: Provides practice exams, exams based on homework, bucket graded (risky), lectures can be unclear, passionate about material, always smiling/welcoming.\n- One student specifically recommends Sohn over Itani if practice exams are important to you.\n- Multiple students across both profiles say CS 350 is one of the hardest courses in the CS program regardless of who teaches it.",
+    "source": "rmp_cs350_professor",
+    "chunk_id": "rmp_cs350_professor::chunk_38",
+    "char_start": 15200,
+    "char_end": 15700
+  }
+]

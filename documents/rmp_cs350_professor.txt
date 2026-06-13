@@ -1,0 +1,188 @@
+SOURCE: Rate My Professors - CS 350 Professor
+URL: https://www.ratemyprofessors.com/professor/2322213
+DESCRIPTION: Student reviews for Professor Abdul-Rahman Itani, who teaches CS 350 (Intro to Computer Systems) at NJIT. Also includes reviews for Professor Andrew Sohn who also teaches CS 350.
+
+---
+
+PROFESSOR: Abdul-Rahman Itani
+DEPARTMENT: Computer Science
+SCHOOL: New Jersey Institute of Technology
+COURSES: CS 350 - Intro to Computer Systems, CS 288 - Intensive Programming in Linux, CS 100
+
+OVERALL RATING: 4.0 / 5
+WOULD TAKE AGAIN: 71%
+LEVEL OF DIFFICULTY: 4.2 / 5
+TOTAL RATINGS: 138
+
+RATING DISTRIBUTION:
+- Awesome (5): 82 ratings
+- Great (4): 18 ratings
+- Good (3): 11 ratings
+- OK (2): 7 ratings
+- Awful (1): 20 ratings
+
+---
+
+ITANI - STUDENT REVIEWS (CS 350):
+
+Review 1 (Quality: 1.0, Difficulty: 5.0, Grade: C, May 2026, Attendance: Mandatory):
+This professor gives a lot of details during lecture. The exams have the same difficulty as the textbook problems. Itani likes to tutor his students and he explicitly says that he likes to do so in his office hours. Make sure to take him if you want to pass. Itani fully respects all sorts of questions asked during lecture.
+Note: This review was marked with low quality but the content reads as positive — may be a misclick.
+Tags: Tough grader, Get ready to read, Test heavy
+[1 upvote, 4 downvotes — suggests community felt the quality rating was inaccurate]
+
+Review 2 (Quality: 5.0, Difficulty: 4.0, Grade: D, May 2026, Attendance: Mandatory, Would Take Again: Yes):
+Dr. Itani is one of the best professors I've had. The class is challenging but he pushes you to genuinely grow. Lectures are clear and engaging and build real understanding, not just memorization. You need a 45 to pass, so stay on top of it. Read the book and go to his office hours. It's worth every bit of effort.
+Tags: Amazing lectures, Gives good feedback, Accessible outside class
+
+Review 3 (Quality: 5.0, Difficulty: 4.0, Grade: C, May 2026, Attendance: Mandatory, Would Take Again: Yes):
+Itani is one of the best CS profs. Lectures are dense and engaging, but not always very deep, so you must read the book for the nitty gritty details and do the chapter problems if you want to pass. Don't bomb Exam 1, stay above average on exams 2 and 3, and follow his expectations and you won't see his bad side. A D is a 45, it can't get easier.
+Tags: Get ready to read, Amazing lectures, Hilarious
+
+Review 4 (Quality: 3.0, Difficulty: 5.0, Grade: Not sure yet, Apr 2026, Attendance: Mandatory):
+He is clearly intelligent and knowledgeable about his field. Good lecturer, but not a good professor. Sets very high expectations for his students, as reflected by his exams. Exams are designed assuming you're practically a master at each topic. You have to dedicate a TON of time to this class or you simply won't keep up. Expect the worst.
+Tags: Get ready to read, Test heavy, Graded by few things
+
+Review 5 (Quality: 5.0, Difficulty: 4.0, Grade: Not sure yet, Apr 2026, Attendance: Mandatory, Would Take Again: Yes):
+Dr. Itani is exceptional. He exhibits high passion, approachability, and the ability to make difficult material understandable.
+Tags: Inspirational, Caring, Respected
+[12 upvotes]
+
+Review 6 (Quality: 4.0, Difficulty: 5.0, Grade: Not sure yet, Apr 2026, Attendance: Mandatory, Would Take Again: Yes):
+Good professor, if you want to learn and put in effort.
+[13 upvotes]
+
+Review 7 (Quality: 5.0, Difficulty: 2.0, Grade: Not sure yet, Apr 2026, Attendance: Mandatory, Would Take Again: Yes):
+He is one of the best professors at NJIT. Class is challenging and he wants students to succeed by putting effort into the course. Take him. You won't regret it.
+Tags: Get ready to read
+[15 upvotes]
+
+Review 8 (Quality: 5.0, Difficulty: 2.0, Grade: Not sure yet, Apr 2026, Attendance: Mandatory, Would Take Again: Yes):
+Honestly and wholeheartedly, Itani is the best professor to walk the grounds at NJIT. Both of my CS 350 midterm grades were 80+, and I barely even opened the textbook. All I do is listen carefully to his excellent lectures. Period.
+Tags: Amazing lectures, Hilarious
+[19 upvotes]
+
+Review 9 (Quality: 1.0, Difficulty: 5.0, Grade: Drop/Withdrawal, Apr 2026, Attendance: Mandatory):
+The professor explains the material clearly and demonstrates strong knowledge of the subject. However, the exams are extremely challenging and feel disproportionately difficult compared to the coursework and lectures. The grading policies are also quite strict, which can make the class feel stressful.
+Tags: Tough grader
+[3 upvotes, 19 downvotes — community largely disagreed with this negative review]
+
+Review 10 (Quality: 1.0, Difficulty: 4.0, Grade: C+, Mar 2026, Attendance: Mandatory):
+Out of kindness, I think he should go to another profession. He got so angry in his office hours, that he told me he wasn't my private tutor, told me to drop out of school, and threatened me when I asked him to help me understand why my practice answer was wrong. I strongly recommend students don't take him for any class.
+Tags: Tough grader, Lecture heavy, Graded by few things
+[6 upvotes, 18 downvotes — community largely disagreed]
+
+Review 11 (Quality: 1.0, Difficulty: 5.0, Grade: A, Feb 2026):
+What's the point of attending lecture if he recommends reading the textbook anyways. So far all the lectures I've attended have not been helpful at all. Even when I read ahead of time. There's no HW or anything similar to help you test yourself besides the outdated textbook questions that some of their solutions are wrong. Avoid at all costs.
+[4 upvotes, 20 downvotes — community strongly disagreed]
+
+Review 12 (Quality: 3.0, Difficulty: 5.0, Grade: Not sure yet, Feb 2026, Attendance: Mandatory):
+Yes, he is a great lecturer, but how he structures this course it's just you reading the textbook. I find his lectures to be completely unnecessary and even he himself emphasizes reviewing the textbook ahead before class. Exams are hard but all within reason. Attendance is mandatory and can only hurt your grade. Try someone else for this class.
+Tags: Test heavy
+
+Review 13 (Quality: 4.0, Difficulty: 4.0, Grade: D, Jan 2026, Attendance: Mandatory, Would Take Again: Yes):
+The way to pass this class is to read the textbook ahead of lecture, listen during the lecture, and read the textbook again. You are graded on a few things, so participation and attendance matter a LOT. The expertise from the professor complements the difficulty of this class. Overall it has been a great challenge passing the course. Don't give up!
+Tags: Get ready to read, Participation matters, Graded by few things
+[14 upvotes]
+
+Review 14 (Quality: 4.0, Difficulty: 5.0, Grade: C+, Dec 2025, Attendance: Mandatory):
+Like, don't get me wrong he's a great professor and compared to every other CS professor at NJIT, he clears them. My only issue with him is that he makes the exams way harder than they really have to be. No idea why he does this, it's like he wants to make us miserable and fail his class. I'd give him an 8.1/10.
+Tags: Tough grader, Amazing lectures, Respected
+
+---
+
+ITANI SUMMARY:
+Professor Abdul-Rahman Itani teaches CS 350 (Intro to Computer Systems) and CS 288 at NJIT and has an overall rating of 4.0/5. He is one of the highest-rated CS professors at NJIT and many students call him the best CS professor at the school. He is known for passionate, engaging lectures that build real understanding. The passing threshold in CS 350 is 45 — a D is considered passing. The strategy to pass is to read the textbook before lecture, attend lecture, and read the textbook again after. Attendance is mandatory. The exams are extremely challenging, often harder than the in-class material. Negative reviews (which receive many community downvotes) allege poor office hour behavior, but the majority of students report positive experiences when they put in effort. Compared to Sohn for CS 350, opinions vary — some prefer Itani for his engaging lectures, others prefer Sohn for his structured practice exams.
+
+---
+
+PROFESSOR: Andrew Sohn
+DEPARTMENT: Computer Science
+SCHOOL: New Jersey Institute of Technology
+COURSES: CS 350 - Intro to Computer Systems, CS 288 - Intensive Programming in Linux
+
+OVERALL RATING: 3.5 / 5
+WOULD TAKE AGAIN: 67%
+LEVEL OF DIFFICULTY: 4.1 / 5
+TOTAL RATINGS: 84
+
+RATING DISTRIBUTION:
+- Awesome (5): 32 ratings
+- Great (4): 18 ratings
+- Good (3): 15 ratings
+- OK (2): 5 ratings
+- Awful (1): 14 ratings
+
+---
+
+SOHN - STUDENT REVIEWS (CS 350):
+
+Review 1 (Quality: 1.0, Difficulty: 5.0, Grade: F, Mar 2026, Attendance: Mandatory):
+I failed this class with Sohn and thought it was because I wasn't smart enough. Retaking it now with another prof made me realize it wasn't me at all. His teaching is super unclear and barely goes into anything. If you actually want to learn the material, avoid this professor.
+Tags: Get ready to read, Lots of homework, Test heavy
+
+Review 2 (Quality: 4.0, Difficulty: 5.0, Grade: D, Feb 2026, Would Take Again: Yes):
+He's hard. I knew people graduating that made this their only class and didn't know if they passed till grades for the final dropped. You could have a 69 in the class and still fail since it's bucket-graded. I did well on the first exam and poor on the last exam and had a 67 at first and failed.
+Tags: Tough grader, Respected, Accessible outside class
+
+Review 3 (Quality: 5.0, Difficulty: 4.0, Grade: A, Dec 2025, Attendance: Mandatory, Would Take Again: Yes):
+I took Prof. Sohn Fall 2025, I finished with an A. One thing that stuck with me was how Prof. Sohn always smiles and invites questions. I don't know if he is teaching CS 350 next semester, if he is I highly recommend his class.
+Tags: Participation matters, Lots of homework
+
+Review 4 (Quality: 3.0, Difficulty: 3.0, Grade: B, Dec 2025, Attendance: Mandatory, Would Take Again: Yes):
+Sohn is a nice guy but could definitely improve on his lecturing skills. He does have lock-in moments where he can explain a topic with ease, but there are very few of those moments. The class is bucket graded which kinda sucks because you can do upper quartile on the 2 midterms and just above average on the final and get a B. Homeworks are okay.
+Tags: Get ready to read, Test heavy
+
+Review 5 (Quality: 5.0, Difficulty: 3.0, Grade: Not sure yet, Dec 2025, Attendance: Mandatory, Would Take Again: Yes):
+Dr. Sohn is an amazing professor all in all. I would highly recommend him as the best option for CS 350 at NJIT. His lectures are very helpful, in depth, and useful for his exams. He is also very considerate and kindhearted. His TAs were of great help. He has a funny way of saying zero as zippo which made me laugh along.
+
+Review 6 (Quality: 1.0, Difficulty: 5.0, Grade: Not sure yet, Sep 2025):
+I'm sure the professor knows his stuff, but his lectures are about as clear as mud. His accent is so heavy that two weeks into the semester, I'm still completely lost. Honestly, without the textbook, this course would be a total bust.
+Tags: Lecture heavy
+[8 upvotes]
+
+Review 7 (Quality: 1.0, Difficulty: 5.0, Grade: D, Sep 2025):
+Chapters 1 through 3 were clear, and easy to follow. Then Chapter 4 hit, and everything spiraled into chaos. By the time the final rolled around, I was completely lost. The practice exams showcase only 30% of what's really on the exam. Otherwise you're stuck reading a textbook trying to learn everything on your own.
+Tags: Get ready to read
+[9 upvotes]
+
+Review 8 (Quality: 4.0, Difficulty: 5.0, Grade: B+, May 2025, Would Take Again: Yes):
+From the get go, it's obvious that Sohn LOVES this material, and is passionate about teaching it to eager students. Course itself can be pretty confusing but if you practice and do the HW it's manageable. Exams 1 and 2 are decent, but the Final is a menace. If he didn't teach only the hardest CS classes in the school, I would love to have him again.
+Tags: Get ready to read, Respected, Test heavy
+
+Review 9 (Quality: 2.0, Difficulty: 4.0, Grade: Not sure yet, May 2025, Attendance: Mandatory):
+If you're deciding between Sohn and Itani for CS 350, definitely take Sohn. He provides practice exams, and the exams contain material mostly from the HW's and past exams.
+
+Review 10 (Quality: 1.0, Difficulty: 5.0, Grade: A, Mar 2025, Attendance: Mandatory, Course: CS 288):
+JSON? More like JSOHN. Also, be ready to know BASH scripting very well before taking this class. He also loves HTMLTidy and TagSoup.
+Tags: Lots of homework, Lecture heavy
+[5 upvotes]
+
+Review 11 (Quality: 3.0, Difficulty: 5.0, Grade: Audit, Dec 2024, Attendance: Mandatory, Would Take Again: Yes):
+Great person, teaching style isn't the best and the grading criteria is bucket graded — you don't know if you passed until the final. Just got done with his final exam, everyone bombed it. The practice exams showcase only 30% of what's really on the exam, otherwise you're stuck reading a textbook trying to learn everything on your own.
+Tags: Get ready to read, Lecture heavy
+
+Review 12 (Quality: 5.0, Difficulty: 4.0, Grade: A, May 2024, Attendance: Mandatory, Would Take Again: Yes):
+Professor Sohn always comes into class with a smile. His lectures are engaging and he does a great job of illustrating difficult concepts. If you did the homework and understood them, you will do well on the exams since the exam questions are VERY similar to the homework and practice exams. He gives you everything you need to do well in the class.
+Tags: Get ready to read, Amazing lectures, Caring
+
+Review 13 (Quality: 1.0, Difficulty: 5.0, Grade: C-, Dec 2023, Attendance: Mandatory):
+Honestly the worst professor I've had so far. It's not the fact that he is tough or that he gives out difficult work for a difficult class, it's the fact that he consistently throughout the semester puts down students for the lack of knowledge instead of ensuring that we are prepared for what we need in the real world.
+Tags: Tough grader, Get ready to read, Lots of homework
+
+Review 14 (Quality: 3.0, Difficulty: 5.0, Grade: Not sure yet, Dec 2023, Would Take Again: Yes):
+From the get go, Professor Sohn tells you that doing the homework by yourself should net you, at minimum, a B. Can be difficult to understand at times, but does make the class as interesting as possible. Do the homework, go to his or the TAs' office hours, and you should at least not fail the course.
+Tags: Respected, Lecture heavy
+
+---
+
+SOHN SUMMARY:
+Professor Andrew Sohn teaches CS 350 (Intro to Computer Systems) and CS 288 at NJIT with an overall rating of 3.5/5. He is known for being passionate about the material and always coming to class smiling. CS 350 with Sohn is bucket-graded, meaning you don't know if you passed until the final grade drops — a student with a 67 may fail. The final exam is widely described as extremely difficult. Students who do the homework thoroughly and attend office hours report doing well, since exam questions are similar to HW and practice exams. Some students prefer Sohn over Itani because he provides practice exams; others find his accent difficult to follow and lectures unclear. The course itself is described as one of the hardest CS courses at NJIT regardless of professor.
+
+---
+
+CS 350 PROFESSOR COMPARISON (Itani vs. Sohn):
+- Itani: Higher overall rating (4.0 vs 3.5), more passionate and engaging lectures, passing threshold is 45/100, attendance mandatory, exams based on textbook, reading book before lecture is essential.
+- Sohn: Provides practice exams, exams based on homework, bucket graded (risky), lectures can be unclear, passionate about material, always smiling/welcoming.
+- One student specifically recommends Sohn over Itani if practice exams are important to you.
+- Multiple students across both profiles say CS 350 is one of the hardest courses in the CS program regardless of who teaches it.

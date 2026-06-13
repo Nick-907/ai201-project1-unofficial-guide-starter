@@ -1,0 +1,115 @@
+SOURCE: NJIT Undergraduate CS Course Catalog
+URL: https://catalog.njit.edu/undergraduate/computing-sciences/computer-science/
+DESCRIPTION: Official descriptions for all undergraduate CS courses at NJIT (2025-2026), including prerequisites, credits, and course content. Focuses on courses relevant to the CS B.S. degree.
+
+NJIT DEPARTMENT OF COMPUTER SCIENCE - UNDERGRADUATE COURSE CATALOG (2025-2026)
+
+Department Chair: Vincent Oria
+Associate Chair: Xiaoning Ding
+
+---
+
+INTRODUCTORY COURSES:
+
+CS 100. Roadmap to Computing. 3 credits.
+An introduction to programming and problem solving skills using Python or other very high level language. Topics include basic strategies for problem solving, constructs that control the flow of execution of a program and the use of high level data types such as lists, strings and dictionaries in problem representation. The course also presents an overview of selected topics in computing, such as networking and databases.
+
+CS 113. Introduction to Computer Science I. 3 credits.
+Prerequisites: CS 100 or CS 103 with grade C or better. Intensive introduction to computer science. Problem solving decomposition. Writing, debugging, and analyzing computer programs. Introduction to arrays and lists. Iteration and recursion. The Java language is introduced and used to highlight these concepts.
+
+CS 114. Introduction to Computer Science II. 3 credits.
+Prerequisite: CS 113 with grade C or better. A study of advanced programming topics with logical structures of data, their physical representation, and the design of computer algorithms operating on the structures. Course covers program specifications, correctness and efficiency, data abstraction, and algorithm analysis.
+
+---
+
+CORE REQUIRED CS COURSES:
+
+CS 241. Foundations of Computer Science I. 3 credits.
+Prerequisites: CS 114 and MATH 112 with grade C or better. An introduction to the foundations of computer science with emphasis on the development of techniques for the design and proof of correctness of algorithms and the analysis of their computational complexity. Reasoning techniques based on propositional and predicate logic and relational calculus operations with applications to databases will also be introduced. Topics include combinatorics of finite sets, functions and relations, and graph-theory definitions.
+
+CS 280. Programming Language Concepts. 3 credits.
+Prerequisites: CS 114 or CS 116 or IT 114 or equivalent with grade C or better. Conceptual study of programming language syntax, semantics and implementation. Course covers language definition structure, data types and structures, control structures and data flow, run-time consideration, and interpretative languages. This is NOT primarily a programming course — it focuses on the theory and concepts behind programming languages, though all assignments are programming-based.
+
+CS 288. Intensive Programming in Linux. 3 credits.
+Prerequisites: CS 100 and CS 280 with grade C or better. The course covers Linux programming with Apache Web and MySQL database using PHP/Python and C as primary languages. It consists of four stages: basic tools such as Bash and C programming; searching trees and matrix computing; end-to-end applications such as one that constantly presents top 100 stocks; and extending the applications to run on multiple machines. The course provides students with hands-on experience for programming relatively large applications. This is one of the most demanding required CS courses and is considered a weed-out course.
+
+CS 332. Principles of Operating Systems. 3 credits.
+Prerequisites: CS 114 or CS 116 or IT 114 or equivalent with grade C or better. Organization of operating systems covering structure, process management and scheduling; interaction of concurrent processes; interrupts; I/O, device handling; memory and virtual memory management and file management. Required course for all CS majors, taken in Third Year Semester 1.
+
+CS 341. Foundations of Computer Science II. 3 credits.
+Prerequisites: CS 241 or MATH 226 and CS 280 with grade C or better. Introduction to automata theory, computability theory, and complexity theory. Theoretical models such as finite-state machines, push-down stack machines, and Turing machines are developed and related to issues in programming language theory. Also covers undecidability and complexity classes P, NP, and NPC.
+
+CS 350. Intro to Computer Systems. 3 credits.
+Prerequisite: CS 280 with grade C or better. Students learn an in-depth understanding of computer internals from a programmer's perspective. Covers the design and construction of internal hardware to execute programmers' instructions written in C. Topics include assignments, branches, arithmetic and logic operations, loops, functions, and recursions. Assembly language constructs are presented. Explores sequential x86-based machine, pipelined computers, cache memory, main memory, virtual memory and its translation of logical address to linear address and to physical address. One of the most technically challenging required courses for CS majors.
+
+CS 356. Introduction to Computer Networks. 3 credits.
+Prerequisite: CS 280 with grade C or better. Introduction to computer networks, with special focus on Internet architecture and protocols. Topics include layered-network architectures, addressing, naming, forwarding, routing, communication reliability, the client-server model, web and email protocols. Students also gain practical experience by programming reduced versions of real Internet protocols.
+
+CS 435. Advanced Data Structures and Algorithm Design. 3 credits, 4 contact hours.
+Prerequisites: CS 241 and CS 288 with grade C or better. Advanced topics in data structures and algorithms, involving sequences, sets, and graphs such as searching, sorting, order statistics, balanced search tree operations, hash tables, graph traversals, graph connectivity and path problems. Algebraic and numeric algorithms. Performance measures, analysis techniques, and complexity of such algorithms.
+
+CS 490. Guided Design in Software Engineering. 3 credits.
+Prerequisites: CS 280 and CS 288 with grade C or better. Focuses on the methodology for developing software systems. Methods and techniques for functional requirements analysis and specifications, design, coding, testing and proving, integration and maintenance are discussed.
+
+CS 491. Senior Project. 3 credits.
+Prerequisite: CS 490 with grade C or better. An opportunity for the student to integrate knowledge and skills gained in previous CS work into a team-based project. The project involves investigation of current literature as well as computer implementation of either a part of a large program or the whole of a small system.
+
+---
+
+OTHER NOTABLE COURSES:
+
+CS 301. Introduction to Data Science. 3 credits.
+Prerequisites: CS 114 and MATH 333 or MATH 341 with grade C or better. Equips CS B.S. students with introductory principles and hands-on skills required to solve data science problems. First part focuses on learning models, formalism, and algorithmic techniques popular in data science. Second part introduces data science tools (e.g., Excel, Python).
+
+CS 331. Database System Design & Management. 3 credits.
+Prerequisites: CS 114 or CS 116 or IT 114 or equivalent with grade C or better. Introduction to modern database systems covering database system architecture, data models, the Entity-Relationship model, the Relational model, Relational Algebra, SQL, database design theory, database storage, and transaction processing.
+
+CS 333. Introduction to UNIX Operating Systems. 3 credits.
+Prerequisites: CS 332 or equivalent and knowledge of C language. Covers the UNIX system kernel including initialization, scheduling, context switching, process management, memory management, device management, and the file system. Also includes the organization of shells, editors, utilities, and programming tools.
+
+CS 351. Introduction to Cybersecurity. 3 credits.
+Prerequisites: CS 241 and CS 356 with grade C or better. Broad overview of cybersecurity. Topics include basics of cryptography, access control, malware, software security, storage and file security, operating-system security, database security and secure communication protocols.
+
+CS 370. Introduction to Artificial Intelligence. 3 credits.
+Prerequisites: CS 114, MATH 337, and CS 241 with grade C or better. Addresses theoretical foundation, methodologies, and applications of AI. Key topics include planning and problem-solving, knowledge representation, reasoning and learning paradigms, and AI's core mechanisms and applications.
+
+CS 375. Introduction to Machine Learning. 3 credits.
+Prerequisites: CS 100, CS 113 or CS 115, and MATH 333 or MATH 341 with grade C or better. Introductory course covering fundamental notions of ML, supervised, unsupervised, and reinforcement-based techniques, with applications on real datasets.
+
+CS 388. Android Application Development. 3 credits.
+Prerequisite: CS 288 with grade C or better. Introduces mobile application development for the Android platform. Covers Android SDK, basic components and concepts, user interfaces, and SQLite database features.
+
+CS 433. Introduction to Linux Kernel Programming. 3 credits.
+Prerequisites: CS 288, CS 332, and CS 350. Introductory study of how the Linux operating system is built from scratch. Hands-on course covering booting, segmentation and paging, process management, handling exceptions and interrupts, creating system calls, creating file systems, networking with TCP/IP, device driver writing.
+
+CS 434. Advanced Database Systems. 3 credits.
+Prerequisite: CS 331 with grade C or better. Expands SQL knowledge and enhances database programming skills. Covers advanced data models and NoSQL DBMSs, object-oriented, document-based, tree-based and graph DBMSs, and Data Warehousing.
+
+CS 438. Interactive Computer Graphics. 3 credits.
+Prerequisites: CS 114 or CS 116 and MATH 337 with grade C or better. Introduces fundamental concepts of interactive graphics. Topics include data structures for representation of 2D and 3D objects and algorithms for definition, modification, and display of these objects.
+
+CS 444. Big Data Systems. 3 credits.
+Prerequisites: CS 288 and CS 301 or DS 340 with grade C or better. Broad coverage of big data generation, transfer, storage, management, computing, and analytics. Focus on state-of-the-art technologies and tools such as Hadoop, HDFS, HBase, MapReduce/Spark.
+
+CS 474. Introduction to Generative AI. 3 credits.
+Prerequisites: CS 370 or CS 375 with grade C or better. Covers current topics and trends in generative AI including principles behind building and training generative, language, and multimodal models.
+
+CS 482. Data Mining. 3 credits.
+Prerequisite: CS 301 or DS 340 with grade C or better. Covers concepts and principles of advanced data mining systems design; presents methods for association and dependency analysis, classification, prediction, and clustering analysis.
+
+---
+
+PREREQUISITE CHAIN FOR KEY REQUIRED COURSES:
+
+CS 288 requires: CS 100 + CS 280 (C or better)
+CS 280 requires: CS 114 (C or better)
+CS 114 requires: CS 113 (C or better)
+CS 113 requires: CS 100 (C or better)
+
+CS 350 requires: CS 280 (C or better)
+CS 332 requires: CS 114 (C or better)
+CS 341 requires: CS 241 + CS 280 (C or better)
+CS 435 requires: CS 241 + CS 288 (C or better)
+CS 433 requires: CS 288 + CS 332 + CS 350
+
+NOTE: A grade of C or better is required in all prerequisite courses. CS 280 is a prerequisite for CS 288, CS 341, CS 350, and CS 356 — it is a critical gateway course in the CS curriculum.

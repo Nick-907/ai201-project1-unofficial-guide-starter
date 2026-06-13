@@ -1,0 +1,81 @@
+SOURCE: Reddit - r/NJTech
+URL: https://www.reddit.com/r/NJTech/comments/ivuujj/any_good_cs_teachers_at_njit/
+DESCRIPTION: Reddit thread asking for recommendations of good CS professors at NJIT. Students name specific professors and courses.
+Upvotes: 3 | Comments: 17
+
+---
+
+Thread Title: Any good CS teachers at NJIT?
+Subreddit: r/NJTech
+
+ORIGINAL POST (u/Stuck_In_Vim):
+This is my third semester here and I do like it. But I've noticed that I have yet to have a CS teacher who actually catches my attention and is good at teaching. I was wondering how many good CS teachers there are at this school? By contrast I've had 3 math classes by now and all teachers were good.
+
+---
+
+COMMENTS:
+
+u/NJTECH_THROW:
+Spirollari (CS100/CS113), Ryan (CS 280), Lay (CS 332), Ionescu (CS 241), Itani (CS 288), Thomson (CS 356), Watson (CS 301), Sresht (CS 435/CS490) are all really great professors.
+[12 upvotes]
+
+u/Stuck_In_Vim (OP):
+I'm saving this list for later :)
+
+u/firewall245:
+RIP Ryan :(
+
+[deleted user]:
+Ionescu is a trash professor. In his online classes he teaches by holding pieces of paper up to the camera. Not that he was better in person anyway.
+
+u/NJTECH_THROW (reply):
+Hard disagree on that. I can't speak about his online teaching, but for CS 241 he was a pretty great teacher. If you didn't get something, he had no problem going over the whole problem again. The reason why people didn't do well in that class imo was because the homework was essentially optional.
+
+u/Altair05:
+Itani and Thompson are awesome. Sohn too I guess, but I'm sure he is more divided amongst the student population than the first 2. Sresht is great. There are more, but I haven't had them personally so I can't attest to them.
+[6 upvotes]
+
+u/Chris2112:
+Hot take: Sohn is one of the best professors I had in college; the people who dislike him or do poorly in his class are just not smart enough. His class wasn't even that hard but it's more on par with the norm at colleges like Stevens.
+[4 upvotes]
+
+u/ProfessorOfLies (reply):
+Not necessarily not smart enough. They might also be lazy.
+
+u/jak3_fromstatefarm:
+There are some decent ones early I felt but with Ryan gone (RIP) there aren't many fantastic teachers. The engineer in residence I had for CS 435 and CS 490 now is great, but he probably won't be here when you take the classes.
+[8 upvotes]
+
+u/studymancareer:
+Ryan was really good. (RIP Dr Ryan)
+Sohn, Susan are also amazing. As someone else said, Dr Sohn is likely the best IMO. He really makes you learn and those who hate him don't have a willingness to learn.
+[6 upvotes]
+
+u/ProfessorOfLies (reply):
+I can second Sohn. Got both my bachelors and masters in CS. He was by far the best.
+
+u/ContrivedControversy:
+Itani is awesome and won't take shit from people. If you try hard and do your best to pay attention, he will work his ass off for you. In my CS100 class he stayed up all night grading student exams (again) to make sure they were accurate for the add/drop deadline the following day. He came into class and looked barely alive, but he did it anyways. Spirollari is also great.
+
+---
+
+SUMMARY OF PROFESSOR MENTIONS AND SENTIMENT:
+
+Highly recommended professors (multiple positive mentions):
+- Spirollari / Spirolarri: Teaches CS 100, CS 113. Described as great, mentioned multiple times positively. First-year CS professor.
+- Itani (Abdul-Rahman M. Itani): Teaches CS 288. Described as awesome, dedicated, works hard for students who put in effort. Stayed up all night regrading exams for accuracy. Not everyone's favorite but highly respected.
+- Sohn (Andrew Sohn): Multiple students say he is the best CS professor at NJIT, including one who completed both B.S. and M.S. in CS. Divided opinion — some find him demanding. Makes students truly learn the material.
+- Sresht: Teaches CS 435 (Advanced Data Structures) and CS 490 (Software Engineering). Described as great by multiple students.
+- Thomson / Thompson: Teaches CS 356 (Introduction to Computer Networks). Described as awesome.
+- Lay (Larry Lay): Teaches CS 332 (Principles of Operating Systems). Listed among recommended professors.
+- Watson: Teaches CS 301 (Introduction to Data Science). Listed among recommended professors.
+- Ionescu: Teaches CS 241 (Foundations of Computer Science I). Mixed reviews — praised for in-person teaching (would re-explain problems patiently), criticized for online teaching (held papers up to camera). Homework described as essentially optional.
+
+Deceased/departed professors:
+- Ryan: Taught CS 280 (Programming Language Concepts). Multiple students mention him with "RIP" — was considered a fantastic teacher for CS 280. His departure is noted as a significant loss for the CS department.
+
+General student sentiment:
+- NJIT math professors are perceived as consistently better teachers than CS professors.
+- Students who put in effort are rewarded by professors like Itani and Sohn.
+- The quality of CS teaching is uneven; finding a good professor requires research.
+- CS 288, CS 332, CS 241, CS 435, and CS 490 have professors students specifically recommend.

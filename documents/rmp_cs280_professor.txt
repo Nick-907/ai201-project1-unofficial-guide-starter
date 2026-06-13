@@ -1,0 +1,65 @@
+SOURCE: Rate My Professors - CS 280 Professor
+URL: https://www.ratemyprofessors.com/professor/2626129
+DESCRIPTION: Student reviews for Professor Bassel Arafeh, who teaches CS 280 (Programming Language Concepts) at NJIT
+
+PROFESSOR: Bassel Arafeh
+DEPARTMENT: Computer Science
+SCHOOL: New Jersey Institute of Technology
+COURSE: CS 280 - Programming Language Concepts
+
+OVERALL RATING: 1.8 / 5
+WOULD TAKE AGAIN: 20%
+LEVEL OF DIFFICULTY: 3.8 / 5
+TOTAL RATINGS: 119
+
+RATING DISTRIBUTION:
+- Awesome (5): 15 ratings
+- Great (4): 3 ratings
+- Good (3): 7 ratings
+- OK (2): 14 ratings
+- Awful (1): 81 ratings
+
+---
+
+STUDENT REVIEWS:
+
+Review 1 (Quality: 2.0, Difficulty: 4.0, Grade: B+, Jun 2026):
+He's not as bad as people say. He basically reads off the lecture the entire class and like 1 month in less than half the people showed up. Just study well for the midterm and final which aren't really like the study guide, but are helpful. PAs and SAs are hard but you can just get help. Try to avoid but not world ending.
+Tags: Tough grader, Lecture heavy, Test heavy
+
+Review 2 (Quality: 1.0, Difficulty: 5.0, Grade: Drop/Withdrawal, May 2026):
+Honestly, one of the most frustrating classes I've ever taken. It constantly felt like questions weren't really being answered. Lectures are basically a Lil Pump concert, just straight mumbling. I'm not even exaggerating when I say this class pushed me to switch my major.
+Tags: Get ready to read, Lecture heavy
+
+Review 3 (Quality: 2.0, Difficulty: 5.0, Grade: Not sure yet, Feb 2026):
+Very easy to fall asleep in his class and less than half of people show up after 3 weeks. Slides are on canvas and vocareum alone deserves 1-2 stars.
+
+Review 4 (Quality: 2.0, Difficulty: 4.0, Grade: C+, Jan 2026):
+I mean the reviews speak for themselves.
+
+Review 5 (Quality: 2.0, Difficulty: 4.0, Grade: C+, Jan 2026):
+Professor Bassel is not a rude person however he may come off that way. He is not the best professor/lecturer and most people don't show up to class. For the midterm and final, if you read the slides you should easily be able to pull off a 60% or higher. His PAs are long and time consuming. Some RAs take a lot of time as well. The class was okay.
+Tags: Clear grading criteria, Lecture heavy, Graded by few things
+
+Review 6 (Quality: 4.0, Difficulty: 3.0, Grade: B+, Dec 2025, Would Take Again: Yes):
+Great sense of humor, vocareum is in my nightmares now.
+
+Review 7 (Quality: 1.0, Difficulty: 5.0, Grade: B, Dec 2025):
+He'll nah.
+Tags: Tough grader, Get ready to read, Lots of homework
+
+Review 8 (Quality: 1.0, Difficulty: 4.0, Dec 2025):
+His lectures are very monotonous and wordy. I sat in the front and tried to take notes and pay attention, but it's not a very good use of your time. Students usually just seem to struggle to study everything on their own. If there is ever another professor for CS280, take them instead. The autograded assignments in Vocareum are also annoying.
+
+Review 9 (Quality: 5.0, Difficulty: 3.0, Grade: Not sure yet, Nov 2025, Would Take Again: Yes):
+When I first looked at a snippet of code I thought it was just a piece of code, but when I stepped into my first lecture with Professor Arafeh, I gained severe Enlightenment. Every word of his speech emanates some sort of aura. Arafeh has truly made me a better coder and has shown what it's like to be an exceptional teacher.
+Tags: Amazing lectures, Inspirational, Hilarious
+
+Review 10 (Quality: 1.0, Difficulty: 4.0, Grade: Not sure yet, Oct 2025):
+You can skip class, read the slides, and have a better experience than being in class. He says on day 1 that the class is not a programming course, yet every assignment is a programming assignment rather than the actual exam material of programming concepts. The exams are filled with niche material from the slides, so it's a lot of memorization.
+Tags: Get ready to read
+
+---
+
+SUMMARY:
+Professor Bassel Arafeh teaches CS 280 (Programming Language Concepts) at NJIT. With an overall rating of 1.8/5 and only 20% of students saying they would take him again, he is one of the lower-rated CS professors at NJIT. The most common complaints are monotonous lectures, low attendance (less than half the class shows up after a few weeks), heavy reliance on slides, and the Vocareum autograded platform being frustrating. Programming Assignments (PAs) and Study Assignments (SAs) are described as time-consuming. Exams test niche material from slides and are not closely aligned with the study guide. The course itself, CS 280, is not a programming course conceptually but still has heavy programming assignments, which surprises students. Some students note that the professor is not a bad person and that reading the slides can yield a passing grade. One student gave a very positive review praising his teaching as inspirational. If another professor is available for CS 280, students strongly recommend taking them instead.

@@ -1,0 +1,99 @@
+SOURCE: NJIT B.S. in Computer Science Curriculum
+URL: https://catalog.njit.edu/undergraduate/computing-sciences/computer-science/bs/
+DESCRIPTION: Official 4-year plan of study for the B.S. in Computer Science at NJIT (120 credits minimum)
+
+B.S. in Computer Science - New Jersey Institute of Technology (2025-2026)
+
+Academic Advisor: https://computing.njit.edu/advising
+Total Credits Required: 120 minimum
+
+FIRST YEAR
+
+Semester 1:
+- CS 100: Roadmap to Computing (3 credits)
+- MATH 111: Calculus I (4 credits)
+- ENGL 101: English Composition: Introduction to Academic Writing (3 credits)
+- PHYS 111: Physics I (3 credits)
+- PHYS 111A: Physics I Lab (1 credit)
+- FYS SEM: First-Year Student Seminar (0 credits)
+Term Credits: 14
+
+Semester 2:
+- CS 113: Introduction to Computer Science I (3 credits)
+- MATH 112: Calculus II (4 credits)
+- ENGL 102: English Composition: Introduction to Writing for Research (3 credits)
+- PHYS 121: Physics II (3 credits)
+- PHYS 121A: Physics II Lab (1 credit)
+Term Credits: 14
+
+SECOND YEAR
+
+Semester 1:
+- CS 114: Introduction to Computer Science II (3 credits)
+- CS/IS/IT Elective 200 or above (3 credits)
+- MATH 333: Probability and Statistics (3 credits)
+- Science Elective (3 credits)
+- History and Humanities GER 200 level (3 credits)
+Term Credits: 15
+
+Semester 2:
+- CS 241: Foundations of Computer Science I (3 credits)
+- CS 280: Programming Language Concepts (3 credits)
+- IS 350: Computers, Society and Ethics (3 credits)
+- COM 312 or COM 313: Effective Communication or Writing in the Workplace (3 credits)
+- MATH 337: Linear Algebra (3 credits)
+- YWCC 207: Computing & Effective Com (1 credit)
+Term Credits: 16
+
+THIRD YEAR
+
+Semester 1:
+- CS 288: Intensive Programming in Linux (3 credits)
+- CS 332: Principles of Operating Systems (3 credits)
+- Social Sciences GER (3 credits)
+- CS 301: Introduction to Data Science (3 credits)
+- CS 356: Introduction to Computer Networks (3 credits)
+Term Credits: 15
+
+Semester 2:
+- CS 331: Database System Design & Management (3 credits)
+- YWCC 307: Professional Dev in Computing (1 credit)
+- CS Elective 300 or above (3 credits)
+- CS 341: Foundations of Computer Science II (3 credits)
+- CS 350: Intro to Computer Systems (3 credits)
+- CS 351: Introduction to Cybersecurity (3 credits)
+Term Credits: 16
+
+FOURTH YEAR
+
+Semester 1:
+- CS 435: Advanced Data Structures and Algorithm Design (3 credits)
+- CS 490: Guided Design in Software Engineering (3 credits)
+- History and Humanities GER 300+ level (3 credits)
+- CS Elective 300 or above (3 credits)
+- CS Elective 300 or above (3 credits)
+Term Credits: 15
+
+Semester 2:
+- CS 491: Senior Project (3 credits)
+- Humanities and Social Science Senior Seminar GER (3 credits)
+- CS Elective 300 or above (3 credits)
+- General Elective (3 credits)
+- CS/IS/IT Elective 200 or above (3 credits)
+Term Credits: 15
+
+Total Credits: 120
+
+MINIMUM GRADES:
+Students are expected to earn a grade of B or better in CS 100. Students are expected to earn a grade of C or better in all CS courses that serve as prerequisites in a sequence of courses.
+
+CO-OP:
+A GPA of 2.7 is required to enroll in co-op. Students may use up to 6 credits of co-op toward their general elective requirements.
+
+KEY REQUIRED CS COURSES (core sequence):
+CS 100 → CS 113 → CS 114 → CS 241 → CS 280 → CS 288 → CS 332 → CS 341 → CS 350 → CS 435 → CS 490 → CS 491
+
+CS 288: Intensive Programming in Linux is taken in Third Year, Semester 1.
+CS 280: Programming Language Concepts is taken in Second Year, Semester 2.
+CS 332: Principles of Operating Systems is taken in Third Year, Semester 1.
+CS 350: Intro to Computer Systems is taken in Third Year, Semester 2.

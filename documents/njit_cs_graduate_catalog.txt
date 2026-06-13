@@ -1,0 +1,195 @@
+SOURCE: NJIT Graduate CS Catalog - Computer Science
+URL: https://catalog.njit.edu/graduate/computing-sciences/computer-science/
+DESCRIPTION: Graduate CS program overview, faculty list, and all graduate CS course descriptions (2025-2026)
+
+NJIT DEPARTMENT OF COMPUTER SCIENCE - GRADUATE CATALOG
+
+Department Chair: Vincent Oria
+Associate Chair: Ioannis Koutis
+
+OVERVIEW:
+Computing has become integrated into every aspect of business, science, engineering, medicine, and daily life, and is undergoing rapid evolution. NJIT's Department of Computer Science is dedicated to meeting the demands of the private and public sectors by producing highly qualified computing professionals. We provide a top-notch computer science education that empowers our graduates to achieve remarkable success in their careers at renowned tech companies, start-ups, government agencies, and nonprofit organizations. Our programs equip students with both the theoretical foundations and practical skills necessary not only to excel in the short term, but also be adaptive to the ever-changing landscape of technology.
+
+DEGREE PROGRAMS OFFERED:
+- B.A. in Computer Science
+- B.S. in Computer Science
+- M.S. in Computer Science
+- M.S. in Cybersecurity and Privacy
+- M.S. in Software Engineering
+- M.S. in Bioinformatics
+- Ph.D. in Computer Science
+
+The MS in Computer Science offers a well-rounded advanced education. Students can select courses from various areas including artificial intelligence, cybersecurity, computer algorithms, data management, programming languages and environments, systems, software engineering and other advanced topics.
+
+FACULTY:
+Arafeh, Bassel - Senior University Lecturer
+Arya, Shivvrat - Assistant Professor
+Bakhshaliyev, Khalid - Senior University Lecturer
+Basu Roy, Senjuti - Associate Professor
+Berenjian, Samaneh - Senior University Lecturer
+Borcea, Cristian M. - Professor
+Calvin, James M. - Professor
+Curtmola, Reza - Professor
+Dale, Mohit - University Lecturer
+Ding, Xiaoning - Associate Professor
+Eljabiri, Osama - Senior University Lecturer
+Eren, Canan - Senior University Lecturer
+Eskandari, Marzieh - Senior University Lecturer
+Gerbessiotis, Alexandros - Associate Professor
+Gotsman, Craig J. - Distinguished Professor
+Hamidli, Fuad - Senior University Lecturer
+Houle, Michael - Senior University Lecturer
+Itani, Abdul-Rahman M. - Senior University Lecturer
+Jayarajah, Kasthuri - Assistant Professor
+Kapleau, Jonathan J. - University Lecturer
+Kaur, Arashdeep - Senior University Lecturer
+Kellogg, Martin - Assistant Professor
+Koutis, Ioannis - Associate Professor
+Lay, Larry - Professor of Practice
+Le, Huong - University Lecturer
+Li, Jing - Assistant Professor
+Li, Yajuan - University Lecturer
+Lin, Tsung-Chi - Assistant Professor
+Liu, Chengjun - Professor
+Mani, Kumar - Senior University Lecturer
+Mili, Ali - Professor and Associate Dean for Academic Affairs
+Murphy, Kieran - Assistant Professor
+Musialski, Przemyslaw - Associate Professor
+Naik, Kamlesh - University Lecturer
+Nakayama, Marvin K. - Professor
+Neamtiu, Iulian - Professor
+Oria, Vincent - Professor
+Payton, Jamie - Dean, Professor
+Perl, Yehoshua - Professor
+Qerimaj, Jertishta - University Lecturer
+Raza, Asad - Senior University Lecturer
+Rohloff, Kurt - Associate Professor
+Rusinkiewicz, Marek E. - Dean Emeritus
+Rutkowski, Wallace - Senior University Lecturer
+Schieber, Baruch - Professor
+Sharma, Shantanu - Assistant Professor
+Shi, Cong - Assistant Professor
+Shih, Frank Y. - Professor
+Sohn, Andrew - Associate Professor
+Spirollari, Junilda - Director of First Year of Computer Science Education
+Theodoratos, Dimitrios - Associate Professor
+Vaish, Prabhat - Senior University Lecturer
+Wang, Jason T. - Professor
+Wang, Guiling (Grace) - Distinguished Professor, Associate Dean for Research
+Wei, Zhi - Distinguished Professor
+Xu, Pan - Assistant Professor
+Yao, Zhihao - Assistant Professor
+Zaidenberg, Ayelet - University Lecturer
+Zhang, Haotian - Assistant Professor
+
+Note: Professors who teach undergrad CS 280, CS 288, CS 332, CS 350 include:
+- Mohit Dale (University Lecturer) - teaches CS 288
+- Abdul-Rahman M. Itani (Senior University Lecturer) - teaches CS 288
+- Xiaoning Ding (Associate Professor) - teaches CS 288
+
+GRADUATE COURSE DESCRIPTIONS:
+
+CS 505. Programming, Data Structures, and Algorithms. 3 credits.
+Prerequisites: Basic knowledge of a higher-level programming language. A higher-level programming language (e.g. C++/Java); program design techniques; introductory data structures (linked lists, stacks, sets, trees, graphs); and algorithms (sorting, searching, etc.) and their analysis. Programming assignments are included.
+
+CS 506. Foundations of Computer Science. 3 credits.
+Prerequisites: Basic knowledge of a higher-level programming language. Introduction to the concepts of iteration, asymptotic performance analysis of algorithms, recursion, recurrence relations, graphs, automata and logic, and also surveys the main data models used in computer science including trees, lists, sets, and relations. Programming assignments are given.
+
+CS 602. Java Programming. 3 credits.
+Prerequisite: Advanced Web-based programming with an emphasis on the Java language and platform. Topics include: networking and sockets, remote method invocation (RMI), database connectivity (JDBC), Java Beans, multi-threading and lightweight components (Swing).
+
+CS 608. Cryptography and Security. 3 credits.
+Topics: Security threats in communication systems; conventional cryptography; distribution of secret key over the Internet; principles of public-key cryptography; RSA and other public-key cryptographic methods; and digital signature protocol.
+
+CS 610. Data Structures and Algorithms. 3 credits.
+Prerequisites: CS 114 and CS 241 or equivalents. Intensive study of the fundamentals of data structures and algorithms. Covers a broad variety of data structures, algorithms and their applications including linked lists, various tree organizations, hash tables, strings, storage allocation, algorithms for searching and sorting.
+
+CS 611. Introduction to Computational Complexity. 3 credits.
+Prerequisites: CS 610 or CS 435, or doctoral student status. Covers: Computability, Reductions, NP-Completeness and Time Complexity, Space Complexity, Computational Hierarchies, Parameterized and Fine-Grained Complexity, Interactive Proofs, Complexity of Counting, and Basic Cryptography.
+
+CS 630. Operating System Design. 3 credits.
+Prerequisites: Knowledge of CS 332 and CS 505 or equivalent courses. An intensive study of computer operating system design including multiprogramming, time-sharing, real-time processing, job and task control, synchronization of concurrent processes and processors, resource scheduling, protection, and management of hierarchical storage.
+
+CS 631. Data Management System Design. 3 credits.
+Prerequisites: Knowledge of C and data structures. Mathematical properties and usage of database programming languages. Methods of database design and conceptual modeling. Methods of physical storage for database information. Fundamental notions of concurrency control and recovery in database systems.
+
+CS 632. Advanced Database System Design. 3 credits.
+Prerequisites: CS 631 and good knowledge of a high-level programming language. Covers rapidly changing concepts and principles of modern database systems based on SQL. Additional topics: advanced data modeling, OODBs, parallel and distributed database systems, XML and NO-SQL databases, Web-database systems, active databases, multimedia and text databases, database security, query optimization.
+
+CS 634. Data Mining. 3 credits.
+Covers principles of data mining system design and implementation. Presents methods for association and dependency analysis as well as classification, prediction, and clustering.
+
+CS 635. Computer Programming Languages. 3 credits.
+Prerequisites: Knowledge of a high-level programming language and CS 505 or equivalent. The theory and design of computer language systems; formal theory of syntax and language classification; survey of procedure and problem-oriented languages, their syntax rules, data structures, and operations; control structures.
+
+CS 636. Data Analytics with R Program. 3 credits.
+Prerequisites: Knowledge of programming, probability, and statistics. Teaches data analytics with R programming. Popular R packages for data science will be introduced. Core course in data science.
+
+CS 643. Cloud Computing. 3 credits.
+Prerequisites: CS 644 or CS 656 or ECE 637. Comprehensive view of cloud computing, from platforms and services to programming and infrastructure. Topics include: cloud computing platforms (AWS, Google Cloud, Microsoft Azure), cloud services for data analytics, machine learning, mobile computing, IoT, edge computing, security and privacy, and devops.
+
+CS 644. Introduction to Big Data. 3 credits.
+Prerequisite: Permission of the instructor. In-depth coverage of big data from data generation, storage, management, transfer, to analytics, with focus on state-of-the-art technologies, tools, architectures, and systems.
+
+CS 645. Security and Privacy in Computer Systems. 3 credits.
+Covers fundamental principles of building secure systems and techniques to ensure data security and privacy. Topics include access control mechanisms, operating systems security, malicious code threats, trusted computing, content protection, and database security.
+
+CS 646. Network Protocols Security. 3 credits.
+Prerequisites: CS 656 and ability to program in Java and C/C++. Covers security of network protocols currently used on the internet. Topics include authentication systems, routing security, firewalls, intrusion detection, honeypots, wireless network security, malware.
+
+CS 647. Counter Hacking Techniques. 3 credits.
+Prerequisites: CS 645 or CS 646 or CS 696 or approval of instructor. Advanced techniques for offensive or defensive goals in network, computer systems and applications. Topics: system memory organizations, assembly language fundamentals, fuzzing based security testing, developing local and remote Linux and Windows exploits, shellcode development.
+
+CS 650. Computer Architecture. 3 credits.
+Prerequisites: Knowledge of CS 350 or equivalent. Topics: exploiting parallelism, memory hierarchy, storage systems, multicore systems, vector machines, GPUs, and multiprocessors. Discusses cybersecurity issues arising out of speculative execution.
+
+CS 652. Cognitive Cloud Networking. 3 credits.
+Prerequisite: CS 656. Provides foundation of multi-cloud network environment. Covers networking architectures that empower today's cloud provider networks including CDN and 5G.
+
+CS 656. Internet and Higher-Layer Protocols. 3 credits.
+Introduces the protocols and standards of the TCP/IP suite that govern the functioning of the Internet. Top-down approach on protocols from the data-link layer to the application layer.
+
+CS 659. Image Processing and Analysis. 3 credits.
+Fundamentals of image processing, analysis and understanding. Topics include image representation, image data compression, image enhancement and restoration, feature extraction and shape analysis.
+
+CS 670. Artificial Intelligence. 3 credits.
+Prerequisites: Proficiency in Python, knowledge of CS 506, DS 637. Covers key representations, techniques, and computational models for intelligent systems. Topics: blind and heuristic search, knowledge representation, logic programming, constraint satisfaction, handling uncertainty, machine learning approaches, NLP, computer vision, robotics, ethical considerations.
+
+CS 673. Software Design and Production Methodology. 3 credits.
+Modern techniques and methods employed in the development of large software systems, from conception to obsolescence. Topics: cost/performance evaluation, documentation requirements, system design and production techniques, system verification techniques, project organization and management.
+
+CS 675. Machine Learning. 3 credits.
+Prerequisites: Basic probability, linear algebra, computer programming, and graduate or undergraduate senior standing. Introduction to machine learning with both theory and applications. Topics: Bayesian classification, perceptron, neural networks, logistic regression, SVM, decision trees, random forests, boosting, dimensionality reduction.
+
+CS 677. Deep Learning. 3 credits.
+Prerequisites: CS 675 or approval of instructor. Topics: parallel programming on GPU and CPU multi-cores, deep learning, representation learning, optimization algorithms, algorithms for big datasets.
+
+CS 680. Linux Kernel Programming. 3 credits.
+In-depth study of how the Linux operating system is built from scratch. Hands-on course covering machine booting, segmentation and paging memory management, creating and destroying processes, process switching and scheduling, handling exceptions and hardware interrupts.
+
+CS 683. Software Project Management. 3 credits.
+Background for managing software projects including economic, managerial and organizational aspects. Topics: software management technique, various software costing techniques including COCOMO and ROI, team organization and management, various methods of software development including Cleanroom and Agile.
+
+CS 684. Software Testing and Quality Assurance. 3 credits.
+Discusses software faults and techniques to reduce faults and improve software quality. Topics: software specifications, goals of testing, techniques of test data selection, test oracle design, test lifecycle and quality impacts of testing.
+
+CS 685. Software Architecture. 3 credits.
+Provides working knowledge of the terms, principles and methods of software architecture and module design. The "4+1" architecture model is taught with architectural styles, interface isolation, decoupling, reuse, agile design with software patterns.
+
+CS 732. Advanced Machine Learning. 3 credits.
+Prerequisites: CS 634 or CS 670 or CS 675 or CS 677 or instructor permission. Explores contemporary advanced topics in machine learning with emphasis on understanding neural networks. Topics: foundations of generalization including uniform convergence bounds, complexity measures, and modern perspectives on overparameterized models.
+
+CS 744. Data Mining and Management in Bioinformatics. 3 credits.
+Prerequisites: CS 610 or permission of the instructor. Concepts and principles of bioinformatic data mining and management with focus on efficiency and scalability.
+
+CS 750. High Performance Computing. 3 credits.
+Prerequisite: CS 650. Topics: parallel computer architectures, programming paradigms (MPI, multithreaded programming), and their applications including PC clusters, shared-memory multiprocessors, distributed-memory multiprocessors.
+
+CS 782. Pattern Recognition and Applications. 3 credits.
+Prerequisite: CS 610. Topics: statistical estimation theory, classifier design, parameter estimation and unsupervised learning, linear discriminant functions, tree classifiers, feature extraction, clustering, Support Vector machines (SVM), Bayesian Learning, Hidden Markov Models (HMM).
+
+GRADUATE CERTIFICATE PROGRAMS:
+- Computer Science Certificate
+- Foundations of Cybersecurity Certificate
+- Hyperscale Computing Certificate
+- Software Engineering, Analysis, and Design Certificate

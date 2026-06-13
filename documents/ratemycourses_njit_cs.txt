@@ -1,0 +1,88 @@
+SOURCE: Rate My Courses - NJIT CS Department
+URL: https://www.ratemycourses.io/njit/department/cs
+DESCRIPTION: Course ratings for NJIT CS courses including overall rating, easiness, interest, and usefulness scores.
+
+NJIT CS COURSE RATINGS (from ratemycourses.io)
+
+Courses with reviews:
+- CS 280: Programming Language Concepts | Overall: 2/5 | Easiness: 1.5/5 | Interest: 2/5 | Usefulness: 2.5/5 | Reviews: 2
+  Students rate CS 280 as a difficult course with low overall satisfaction. Easiness score of 1.5 suggests students find it very challenging. The usefulness score (2.5) is slightly better than the overall and interest ratings.
+
+- CS 610: Data Structures and Algorithms (Graduate) | Overall: 4/5 | Easiness: 2/5 | Interest: 4/5 | Usefulness: 4/5 | Reviews: 1
+  CS 610 at the graduate level receives much higher marks for interest and usefulness despite still being rated as difficult (easiness 2/5).
+
+Courses with no reviews yet (ratings = 0):
+CS 288: Intensive Programming in Linux - No reviews
+CS 332: Principles of Operating Systems - No reviews
+CS 350: Intro to Computer Systems - No reviews
+CS 341: Foundations of Computer Science II - No reviews
+CS 241: Foundations of Computer Science I - No reviews
+CS 435: Advanced Data Structures and Algorithm Design - No reviews
+CS 356: Introduction to Computer Networks - No reviews
+CS 351: Introduction to Cybersecurity - No reviews
+CS 331: Database System Design & Management - No reviews
+CS 490: Guided Design in Software Engineering - No reviews
+CS 491: Senior Project - No reviews
+CS 370: Introduction to Artificial Intelligence - No reviews
+CS 301: Introduction to Data Science - No reviews
+CS 114: Introduction to Computer Science II - No reviews
+CS 113: Introduction to Computer Science - No reviews
+
+FULL COURSE LIST FOR NJIT CS DEPARTMENT:
+CS 100: Roadmap to Computing
+CS 101: Computer Programming and Problem Solving
+CS 103: Computer Science with Business Problems
+CS 104: Computer Programming and Graphics Problems
+CS 106: Roadmap to Computing for Engineers
+CS 107: Computing As A Career
+CS 113: Introduction to Computer Science
+CS 114: Introduction to Computer Science II
+CS 115: Introduction to Computer Science in C++
+CS 116: Introduction to Computer Science II in C++
+CS 207: Computing & Effective Com
+CS 241: Foundations of Computer Science I
+CS 252: Computer Org & Architecture
+CS 280: Programming Language Concepts - RATED: Overall 2, Easiness 1.5, Usefulness 2.5 (2 reviews)
+CS 288: Intensive Programming in Linux
+CS 301: Introduction to Data Science
+CS 310: Co-op Work Experience I
+CS 331: Database System Design & Management
+CS 332: Principles of Operating Systems
+CS 337: Performance Modeling in Computing
+CS 341: Foundations of Computer Science II
+CS 345: Web Search
+CS 350: Intro to Computer Systems
+CS 351: Introduction to Cybersecurity
+CS 356: Introduction to Computer Networks
+CS 357: Fundamentals of Network Security
+CS 370: Introduction to Artificial Intelligence
+CS 388: Android Application Development
+CS 407: Professional Dev in Computing
+CS 408: Cryptography & Internet Security
+CS 410: Co-op Work Experience II
+CS 431: Intro Database Systems
+CS 433: Introduction to Linux Kernel Programming
+CS 434: Advanced Database Systems
+CS 435: Advanced Data Structures and Algorithm Design
+CS 438: Interactive Computer Graphics
+CS 482: Data Mining
+CS 485: Special Topics
+CS 488: Independent Study in Computer Science
+CS 490: Guided Design in Software Engineering
+CS 491: Senior Project
+CS 505: Programming, Data Structures, and Algorithms (Graduate Bridge)
+CS 506: Foundations of Computer Science (Graduate Bridge)
+CS 602: Java Programming (Graduate)
+CS 608: Cryptography and Security (Graduate)
+CS 610: Data Structures and Algorithms (Graduate) - RATED: Overall 4, Easiness 2, Interest 4, Usefulness 4 (1 review)
+CS 630: Operating System Design (Graduate)
+CS 634: Data Mining (Graduate)
+CS 643: Cloud Computing (Graduate)
+CS 644: Introduction to Big Data (Graduate)
+CS 645: Security and Privacy in Computer Systems (Graduate)
+CS 670: Artificial Intelligence (Graduate)
+CS 675: Machine Learning (Graduate)
+CS 677: Deep Learning (Graduate)
+CS 680: Linux Kernel Programming (Graduate)
+
+SUMMARY: CS 280 (Programming Language Concepts) is consistently rated as one of the most difficult and least interesting undergraduate CS courses at NJIT based on available student ratings. The course has low scores across all dimensions (overall 2/5, easiness 1.5/5, interest 2/5) suggesting students find it challenging and not particularly engaging. CS 610 (graduate Data Structures) is rated highly for interest and usefulness (4/5 each) despite moderate difficulty.

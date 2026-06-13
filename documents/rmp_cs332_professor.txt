@@ -1,0 +1,108 @@
+SOURCE: Rate My Professors - CS 332 Professor
+URL: https://www.ratemyprofessors.com/professor/2755801
+DESCRIPTION: Student reviews for Professor Kamlesh Naik, who teaches CS 332 (Principles of Operating Systems) at NJIT
+
+PROFESSOR: Kamlesh Naik
+DEPARTMENT: Computer Science
+SCHOOL: New Jersey Institute of Technology
+COURSE: CS 332 - Principles of Operating Systems (also teaches CS 241)
+
+OVERALL RATING: 3.8 / 5
+WOULD TAKE AGAIN: 69%
+LEVEL OF DIFFICULTY: 3.4 / 5
+TOTAL RATINGS: 82
+
+RATING DISTRIBUTION:
+- Awesome (5): 48 ratings
+- Great (4): 9 ratings
+- Good (3): 4 ratings
+- OK (2): 3 ratings
+- Awful (1): 18 ratings
+
+---
+
+STUDENT REVIEWS:
+
+Review 1 (Quality: 5.0, Difficulty: 3.0, Jan 2026, Would Take Again: Yes, Course: CS 241):
+I took Professor Naik for CS 241. He has very good lectures and explains a lot of the material very well. His quizzes are very easy however his homeworks and exams are a lot more difficult. Some homeworks may take a few hours to complete. He also does not hand out much review material other than problems in class. Watch out for the exams.
+Tags: Tough grader, Amazing lectures, Lecture heavy
+
+Review 2 (Quality: 5.0, Difficulty: 3.0, Grade: A, Jan 2026, Attendance: Mandatory, Would Take Again: Yes, Course: CS 241):
+I took CS 241 with him, and he is really good. His explanations are very clear, he does his best to help us understand the material well and his class is not hard.
+Tags: Clear grading criteria, Respected, Accessible outside class
+
+Review 3 (Quality: 1.0, Difficulty: 5.0, Grade: C, Jan 2026):
+Save your GPA, don't take his class. Quizzes and exams are like extremely hard riddles, the final put something he never covered before worth 9 out of 80 points. He loves questions where if you mess up a small thing you will get the entire problem wrong with no or little partial credit. The most inflexible professor I've ever had. He is funny though.
+Tags: Tough grader, Hilarious, Graded by few things
+
+Review 4 (Quality: 1.0, Difficulty: 4.0, Dec 2025, Would Take Again: Yes):
+Really tough grader!!!
+Tags: Tough grader
+
+Review 5 (Quality: 2.0, Difficulty: 4.0, Grade: B, Dec 2025, Would Take Again: Yes):
+Midterm and Final together are worth 35% each. He doesn't speak proper English and his exams are really wordy. The finals he throws curve balls, stuff not done or mentioned in class.
+Tags: Tough grader, Amazing lectures, Test heavy
+
+Review 6 (Quality: 1.0, Difficulty: 5.0, Grade: C-, Dec 2025):
+BAD grader and likes to add in test questions that have not been gone over or reviewed. I don't recommend taking this course. If you do then good luck.
+Tags: Tough grader
+
+Review 7 (Quality: 1.0, Difficulty: 4.0, Grade: B-, Dec 2025):
+Tough!!
+Tags: Graded by few things
+
+Review 8 (Quality: 1.0, Difficulty: 3.0, Grade: C+, Dec 2025):
+He comes across as friendly at first, but the grading was very strict. Policies were applied rigidly, with little flexibility for mistakes. Once points were lost, it was difficult to recover. Don't take courses from him!
+Tags: Tough grader, Lecture heavy, Test heavy
+
+Review 9 (Quality: 5.0, Difficulty: 3.0, Grade: C+, Dec 2025, Would Take Again: Yes):
+By far the best professor at NJIT. He is very funny, caring and is always willing to help his students. He is a loving man and makes all concepts super easy to understand. If you have the option to take his class, take him you will be glad you did.
+Tags: Hilarious, Lecture heavy, Graded by few things
+
+Review 10 (Quality: 3.0, Difficulty: 3.0, Grade: D, Dec 2025):
+Professor Naik is a good lecturer and goes over all problems. However he is a harsh grader; if you make one mistake, the rest of the question is marked wrong, takes off many points. He also has somehow voided exceptions from the dean of students, and makes a point to mention that none of his quizzes or homework can be made up even if you're sick or have an emergency.
+Tags: Tough grader, Clear grading criteria, Test heavy
+
+Review 11 (Quality: 5.0, Difficulty: 3.0, Grade: C+, Dec 2025, Would Take Again: Yes):
+Overall one of my favorite professors at NJIT. He does a great job at teaching the material, the only downside is that he doesn't post any of the material on Canvas which makes it difficult to catch up if you miss a lecture.
+Tags: Tough grader, Amazing lectures, Hilarious
+
+Review 12 (Quality: 5.0, Difficulty: 5.0, Grade: B-, May 2025, Attendance: Mandatory, Would Take Again: Yes):
+Prof. Naik is an excellent professor for this class. It's a hard class, but he organizes the material incredibly well. He's incredibly caring for his students and although he may be intimidating at first, email him or go to his office hours if you have questions and you'll find he's a huge help. The exams, however, could REALLY be toned down a lot.
+Tags: Caring, Graded by few things, Accessible outside class
+
+Review 13 (Quality: 5.0, Difficulty: 2.0, Grade: A+, May 2025, Would Take Again: Yes):
+Great professor and teacher, breaks down concepts VERY clearly which, in turn, makes the class really easy. His exam questions tend to be wordy, but they are very much doable as long as you read through them patiently and understand the concepts in class. He also gives you the exact layout of the exam (number of questions from each topic) beforehand.
+
+Review 14 (Quality: 4.0, Difficulty: 4.0, Grade: Not sure yet, May 2025, Would Take Again: Yes):
+Prof. Naik is an amazing teacher. I recommend taking him over any other prof for CS 332. I was doing really well in his class and his class was the only one I looked forward to. I really have great respect for him but it deeply saddens me that because of negative comments in the past, he is much more strict and difficult with exams (final was a pain).
+Tags: Tough grader, Amazing lectures, Lecture heavy
+
+Review 15 (Quality: 5.0, Difficulty: 4.0, Grade: Not sure yet, May 2025, Would Take Again: Yes):
+Naik is amazing at explaining concepts and I loved having him as a teacher. Problem is the midterm and final which basically make up 70% of your final grade have problems that are much harder than anything done in class or on quizzes. But given that, he does make it basically impossible to fail the class if you do the work and try.
+Tags: Tough grader, Amazing lectures, Test heavy
+
+Review 16 (Quality: 3.0, Difficulty: 4.0, Grade: B+, May 2025):
+He is a great teacher with an incredible and understandable teaching style. But his tests are insanely long and unnecessarily confusing. No time to check your work. If you don't spend every single second of the exam working, you won't finish. He adds random twists on problems that make them twice as confusing as anything he's done in class.
+Tags: Test heavy
+
+Review 17 (Quality: 1.0, Difficulty: 5.0, Grade: B+, May 2025):
+The in class material isn't hard but he puts some really difficult stuff on the final and midterm not related to class at all even if he gives you the blueprint. I don't know about the other profs for CS 332 either. Just good luck — NJIT is rough. You can definitely get an A but he just gets you over with the final.
+Tags: Tough grader, Hilarious, Test heavy
+
+Review 18 (Quality: 5.0, Difficulty: 3.0, Grade: B+, May 2025, Would Take Again: Yes):
+Kamlesh is a funny guy, very verbose. Great prof.
+Tags: Clear grading criteria, Hilarious, Lecture heavy
+
+Review 19 (Quality: 5.0, Difficulty: 2.0, Grade: B+, Oct 2024, Would Take Again: Yes):
+No BS, no PowerPoints. He will teach you everything you need to do well in the course.
+Tags: Inspirational, Caring, Respected
+
+Review 20 (Quality: 4.0, Difficulty: 1.0, Grade: A, Oct 2024, Would Take Again: Yes):
+Lowkey a zestfest, good professor but wastes a lot of time saying "are you getting it" when it's a simple concept. Class is a drag he moves very slow.
+Tags: Clear grading criteria, Caring, Accessible outside class
+
+---
+
+SUMMARY:
+Professor Kamlesh Naik teaches CS 332 (Principles of Operating Systems) and CS 241 (Foundations of Computer Science I) at NJIT. His overall rating is 3.8/5 with 69% of students willing to take him again. He is one of the more popular CS professors when it comes to lecture quality — many students praise his clear explanations, humor (described as "very funny"), and caring attitude. The main complaint is his exams: he is a harsh grader who gives zero partial credit for errors, adds curveball questions that weren't covered in class, and produces exams that are too long to finish comfortably. He does not post lecture materials on Canvas, making attendance important. He also reportedly cannot make up quizzes or homework under any circumstances, even with dean exceptions. Students strongly recommend going to office hours. The course CS 332 itself is described as a hard class with well-organized material. Students who put in effort and ask questions consistently report positive outcomes.

@@ -1,0 +1,66 @@
+SOURCE: Rate My Professors - CS 288 Professor
+URL: https://www.ratemyprofessors.com/professor/2946192
+DESCRIPTION: Student reviews for Professor Mohit Dale, who teaches CS 288 (Intensive Programming in Linux) at NJIT
+
+PROFESSOR: Mohit Dale
+DEPARTMENT: Computer Science
+SCHOOL: New Jersey Institute of Technology
+COURSE: CS 288 - Intensive Programming in Linux
+
+OVERALL RATING: 4.0 / 5
+WOULD TAKE AGAIN: 78%
+LEVEL OF DIFFICULTY: 3.9 / 5
+TOTAL RATINGS: 74
+
+RATING DISTRIBUTION:
+- Awesome (5): 50 ratings
+- Great (4): 6 ratings
+- Good (3): 2 ratings
+- OK (2): 1 rating
+- Awful (1): 15 ratings
+
+---
+
+STUDENT REVIEWS:
+
+Review 1 (Quality: 5.0, Difficulty: 5.0, Grade: B, May 2026, Attendance: Mandatory, Would Take Again: Yes):
+Highly recommend taking Dale over Itani. He has clear lectures and it feels like he wants to see you succeed. He is always available on Discord to ask questions and gives good prep materials for the midterm and final.
+Tags: Amazing lectures, Lots of homework, Caring
+
+Review 2 (Quality: 3.0, Difficulty: 5.0, Grade: B, Apr 2026, Attendance: Mandatory, Would Take Again: Yes):
+Dale > Itani.
+Tags: Tough grader
+
+Review 3 (Quality: 4.0, Difficulty: 4.0, Grade: B+, Apr 2026, Attendance: Mandatory, Would Take Again: Yes):
+Lowkey, there's someone review-bombing Dale's RMP with straight-up false info. Honestly, just ask people who've actually taken or are taking his class and you'll get the honest review — which is generally positive about both him and his class.
+
+Review 4 (Quality: 4.0, Difficulty: 4.0, Grade: B+, Apr 2026, Attendance: Mandatory, Would Take Again: Yes):
+Dale's class isn't bucket graded.
+
+Review 5 (Quality: 1.0, Difficulty: 2.0, Grade: B+, Mar 2026, Attendance: Not Mandatory):
+Dale really shouldn't be teaching anything past CS 100. It's super obvious he only knows stuff from books and has no real-world experience. CS 288 used to mean something, but now it feels like just another easy, bucket-graded class in the department.
+
+Review 6 (Quality: 4.0, Difficulty: 5.0, Grade: B, Jan 2026, Attendance: Mandatory, Would Take Again: Yes):
+CS 288 is infamous for its disjointed topics and heavy coding proficiency requirement. Please take it with Dale if you want to pass the first time and are willing to put in the work for it. Don't make the mistake of not reading the K&R C book before coming into his class. He's a professor that really cares about students and wants them to do well.
+Tags: Lots of homework, Caring, Accessible outside class
+
+Review 7 (Quality: 1.0, Difficulty: 5.0, Grade: Drop/Withdrawal, Jan 2026):
+I don't know what he thinks about himself, but he has to understand that if he were a genius, he would be working at Apple, not at NJIT. He makes an easy course extremely difficult, and is destroying so many people's academic life. Tell the dean to remove him from this course and hire a senior teacher with expertise in system programming and OS.
+
+Review 8 (Quality: 1.0, Difficulty: 1.0, Grade: A, Dec 2025):
+The final test wasn't really hard enough to show if we actually learned the material. The multiple-choice questions were too easy, like anyone could guess them, so it felt more like they just didn't want students to complain instead of checking what we actually know. The class looks less serious and makes me wonder if the teaching was effective.
+
+Review 9 (Quality: 5.0, Difficulty: 5.0, Grade: B+, Dec 2025, Attendance: Mandatory, Would Take Again: Yes):
+There is a bunch of doom posters in his RMP, likely due to them getting caught for cheating (there were 30+ people caught a previous semester). Anyways, Dale is an exceptional professor for CS 288. Tests are rough, but it makes sense as the weed-out course. He monitors hard for cheaters, but it's understandable given the history of this course.
+Tags: Tough grader, Amazing lectures, Caring
+[11 upvotes]
+
+Review 10 (Quality: 5.0, Difficulty: 4.0, Grade: A, Dec 2025, Attendance: Mandatory, Would Take Again: Yes):
+Don't listen to everyone tanking reviews just because they failed and are coping. He is accessible outside of class through office hours, Discord, and email. His lecture coding examples and the homeworks are highly reflective of the exams. Don't slack off (read the materials too) and you will pass. He actively listens to feedback on pace and depth.
+Tags: Tough grader, Participation matters, Accessible outside class
+[11 upvotes]
+
+---
+
+SUMMARY:
+Professor Mohit Dale teaches CS 288 (Intensive Programming in Linux) at NJIT and is one of the more positively reviewed CS professors. With an overall rating of 4.0/5 and 78% of students saying they would take him again, he scores significantly higher than other CS professors at NJIT. Multiple students explicitly recommend taking Dale over Itani for CS 288. His key strengths include clear lectures, accessibility on Discord for questions, caring attitude toward student success, and homework that directly reflects exam content. CS 288 is described as a weed-out course with disjointed topics and heavy coding requirements — reading the K&R C book before the course is strongly advised. Some negative reviews allege the course has become too easy or that Dale lacks real-world experience, but several students suggest these are review-bombed by students who were caught cheating (reportedly 30+ students caught cheating in a previous semester). Attendance is listed as mandatory. Students who put in effort and read the materials consistently report passing.

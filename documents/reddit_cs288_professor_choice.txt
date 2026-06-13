@@ -1,0 +1,55 @@
+SOURCE: Reddit - r/NJTech
+URL: https://www.reddit.com/r/NJTech/comments/qtkuhj/itani_or_ding_for_cs288/
+DESCRIPTION: Reddit thread discussing which professor (Itani or Ding) to choose for CS 288 at NJIT
+NOTE: Original post captured. The 8 comments were not visible (Reddit hides them behind login on new layout). To get comments, try old.reddit.com/r/NJTech/comments/qtkuhj/ or scroll past the "People also ask" section while logged in.
+
+---
+
+Thread Title: Itani or Ding for CS288?
+Subreddit: r/NJTech
+Course: CS 288 - Intensive Programming in Linux
+Upvotes: 6 | Comments: 8
+
+ORIGINAL POST:
+All my friends said not to take Itani for CS288 but he has higher ratings than Ding on Rate My Professors, so I'm just unsure. I have Itani for CS100 and I know Python so it's not bad, but he's def not my favorite. Any opinions?
+
+---
+
+RELATED NJIT STUDY ADVICE (from Reddit Answers, r/NJTech community):
+
+Best study techniques for NJIT students:
+
+Core habits:
+- Daily short study blocks beat cramming. If you can get used to studying daily and keeping up with all your courses, you'll save massive amounts of headache and huge study sessions right before the exams.
+- Do practice exams repeatedly until you can do them cold. Around a week before the exam, professors will give you a practice exam. The first time do it without notes, then review, then do it again without notes.
+- Stay ahead of lectures; falling behind is what breaks students. It's the falling behind that gets you so you really need to learn the material with a similar speed to how your course is progressing.
+
+Active study methods:
+- Explain answers out loud and write reasoning for each problem. Talk to yourself and give your reasoning for each problem.
+- Use targeted YouTube or external instructors to fill gaps. You need to utilize YouTube in addition to your class to get ahead and understand the topics.
+- Make personal projects or practice problems to reinforce skills. Try making some personal projects. If you have an idea, try it, you'll definitely learn something.
+
+Time and course-load management:
+- Trim credit load when a semester is brutal. Try 12-14 credits next semester instead.
+- Choose one or two easier classes to balance a heavy semester. I'm taking 16 but I made sure 2 of those classes were easy compared to the rest.
+- If overwhelmed, consider a planned leave or reduced load and use time to self-study. I took a break and studied 4-5 hours a day the entire period. I came back with a 4.0.
+
+Use campus resources:
+- Join study groups, club tutorials, and departmental resources.
+- Attend in-class reviews and copy professor walkthroughs into notes. After the in class review, take the practice exam a second time and write down everything the prof says.
+- Ask questions early and get help before you fall behind. Always ask questions even if they seem dumb and study outside of course materials to really understand it.
+
+Exam-day and short-term tips:
+- Read questions slowly to avoid tricks; practice under timed conditions. There are always at least 2 open ended questions. They also like adding trick questions, so take your time reading each question.
+- Do homework fully — it is often the best preparation. Do all of your homework. Leading up to the exams, start doing practice problems.
+- Use targeted tools like PythonTutor or GPT for tricky problem types. If you still get some wrong, write them down and ask GPT to explain it and generate practice problems similar to that one. You can also use Pythontutor.com.
+
+Summary: Study daily in focused chunks, practice whole exams repeatedly, use outside video lessons and projects to solidify understanding, manage your course load when needed, and use NJIT study groups and tutorials. These habits are what many NJIT students report helped them survive and improve grades.
+
+---
+
+PROFESSOR COMPARISON (from original post context):
+- Professor Itani (Abdul-Rahman M. Itani): Higher RMP rating but some students advise against for CS 288 specifically
+- Professor Ding (Xiaoning Ding): Lower RMP rating but may be preferred by students for CS 288
+- CS 288 - Intensive Programming in Linux is a required course taken in Third Year, Semester 1
+- Students with prior Python knowledge may find the transition to Linux/C programming easier regardless of professor
